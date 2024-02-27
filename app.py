@@ -18,7 +18,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 #model preperation
-os.environ["GOOGLE_API_KEY"]="AIzaSyBR03q5DwkuBxfeCCja-b-j1hGeI0NRIGE"
+os.environ["GOOGLE_API_KEY"]="AIzaSyBCFZVDjQ0PhVovjrf1XcwRf5nxdOgtb1Q"
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 os.environ["LANGCHAIN_API_KEY"] = "ls__fe037fb4637146b8bdcf8355ea7c7b79"
@@ -81,15 +81,15 @@ chain = (
     |StrOutputParser()
 )
 
-button1 = st.sidebar.button('Button 1')
+button1 = st.sidebar.button('Malawi Investment and Trade Center (MITC)')
 if button1:
-    st.sidebar.write('You clicked Button 1')
+    st.sidebar.write('Project is Selected')
     st.session_state.persist_directory = './doc1/'
     st.session_state.history = []
 
-button2 = st.sidebar.button('Button 2')
+button2 = st.sidebar.button('Botanic Gardens of Malawi (NHBG)')
 if button2:
-    st.sidebar.write('You clicked Button 2')
+    st.sidebar.write('Project is Selected')
     st.session_state.persist_directory = './doc2/'
     st.session_state.history = []
 
