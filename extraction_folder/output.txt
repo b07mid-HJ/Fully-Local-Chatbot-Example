@@ -1,0 +1,1029 @@
+
+
+
+
+
+ 
+ 
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUBMITTED: November 29th, 2023
+	
+
+
+
+
+List of tables
+
+List of figures
+
+
+List of acronyms
+
+
+Executive summary
+Established in 1987 under Act of Parliament number 7 of 1987, the National Herbarium and Botanic Gardens of Malawi (NHBG) is a parastatal botanical institution responsible for research and study of plants, including documentation about traditional uses, classification and conservation of plants of Malawi.
+The objective of the current project is to develop botanic gardens for the National Herbarium and Botanic Gardens (NHBG) with the aim of fostering a harmonious balance between ecological preservation and public education. The development is envisioned to include a variety of landscapes and facilities that will not only conserve a diverse range of plant species but also offer educational programs and research opportunities. These botanic gardens are intended to serve as a sanctuary for biodiversity, facilitating the conservation of both local and exotic flora. By doing so, they will enhance the NHBG's capacity to support conservation efforts and provide a resource for scientific research, while also creating spaces for public enjoyment and learning. These investments in the botanic gardens will enable the NHBG to enhance its quality of service as a centre for botanical research, education and conservation.
+The proposed botanic gardens will include various features such as themed gardens, greenhouses, research and educational facilities, retail spaces, and recreational facilities. The Consultant has explored various implementation options, including the size of the garden, the range of facilities to be included, the duration of the PPP contract, and the roles and responsibilities of the private partner and the public sector.
+The aim of this report is to provide a comprehensive Feasibility Study, which investigates the preferred identified implementation options and finalizes transaction structure. The Feasibility Study should enable the PPPC to determine the project parameters (project cycle costs, affordability, service levels, risks and their costs, sensitivity analysis, investment results: and Theme / Conceptual design).
+The feasibility study is inclusive, among others, of:
+All risks and the Financial Model reflecting optimal design parameters;
+PPPC share of profit;
+Valuation & sensitivity;
+Value for Money (VFM) and Affordability analysis.
+The Feasibility will demonstrate affordability for the full project life cycle and propose the optimal solution for the PPPC to achieve its desired outcomes, by considering the constraints and concerns of all the key stakeholders involved.
+Based on documentary research as well as the consultant's experience in advising clients on different modes of PPP procurement for similar projects around the world, we have conducted an international benchmark study of similar PPP projects for Botanical gardens, namely:
+The public gardens of Ahmedabad in India;
+The Malta Landscaping Project;
+The São Paulo Botanical Garden and Zoo in Brazil.
+The benchmark study has shown that in most national herbariums and botanical gardens infrastructure projects, the PPP models used are the DBFOT, BOT and ROT models. The revenue stream in most cases comes from user payments (leasing fees, commercial activities, etc.) with a support from the government in the form of grants when needed. These selected projects have faced several difficulties such as delays, performance gaps and in extreme cases project cancellation. To avoid such issues, a number of recommendations should be taken into consideration for the National Herbarium and Botanical Gardens Project, namely:
+minimizing future deviations from financial, economic, and social projections with respect to project outcomes at the initial preparation stages;
+ensuring that users projections are accurate as much as possible.
+
+Technical and environmental assessment of the project
+Due to increasing pressure on land especially in urban areas driven by rapid urbanization, it is now usual that zoning requirements in these areas provide for developments on more than single storey. For the proposed developments within the Botanical Gardens, however, a majority of them except for the offices at Zomba Botanical Garden are single storey structures so as not to be intrusive and also to blend in with their sensitive environments.
+Section 24 (1) of the Environmental Management Act (EMA) provides a list of projects for which an environmental impact assessment (EIA) may be required. In its List A – List of Projects for Which EIA is Mandatory and specifically A12 cites Tourism Development Projects providing accommodation of 50 persons and more fall in this category. 
+When taken together the three (3) Botanical Gardens propose to provide tourist accommodation of 50 persons or more (Zomba – 32 persons, Lilongwe – 40 persons and Mzuzu – 24 persons) and would meet these criteria but each of the Gardens falls short of meeting the threshold. Since EIA’s are conducted for a particular environment and a project’s impacts on that environment it would be appropriate to apply to the Director of MEPA for the proposed developments for each of the Botanical Gardens for a determination on whether an EIA is required by submitting Project Briefs in accordance with the provisions of Section 26 of the EMA.
+The legal, regulatory and policy framework for the project comprises the Republic of Malawi Constitution of 1994 as well as various legislations that cover public private partnerships, infrastructure development permits, real estate issues, foreign direct investments, controls on foreign exchange transactions, dividend repatriation and requirement for environmental and social impact assessments.
+The legal framework for PPP in Malawi mainly consists of the Public-Private Partnership Act (the “PPP Act”) adopted on 22 December 2011, as well as the Public-Private Partnership Policy Framework, approved by Cabinet on 18 May 2011. The PPP Act of December 2011 was repealed and replaced by the PPP Bill that was enacted into law by Parliament on the 5th of April 2022.
+The PPP Law provides for the possibility to structure the Project through a Special Purpose Vehicle (SPV) or a Joint Venture agreement (JV).
+The law in Malawi provides for permits and approvals that are to be obtained before the implementation of an infrastructure development project, namely:
+Planning Permission
+Development Permission
+Compliance with Development Guidelines and Standards
+Environmental Impact Assessment (EIA) 
+Business permission
+Pesticide Application Permit
+Plant Import and Export Permit
+Water permission.
+The Project can be structured through a public private partnership or an Engineering, Procurement and Construction (EPC) Contract. The legal framework in Malawi allows both structures.
+The cycle of PPP contracts in Malawi initiated by the public authorities goes through 5 phases as shown in the following figure.
+
+Risk Analysis
+Risk analysis focuses on the probability that events do not occur as planned and measurement of the consequences of such outcomes. The methodology followed during risk analysis includes risk identification, quantification and allocation during the Feasibility Study, Pre-procurement and Procurement and Evaluation stages of the Project.
+For the project consisting of designing, building, financing, operating and maintaining the NHBG project, the risks can be classified into two main categories:
+General risks or country risks which are linked to the political, economic and legal environment of the country and over which the two partners have no control; and
+Project-specific risks over which the public and the private partners may have some control.
+The table below summarizes the main risks of the project.
+
+The Risk Matrix includes the key risks that may impact the project as well as the adopted approach of managing and mitigating these risks in similar projects undertaken in the region and internationally.
+Risk is quantified by measuring the potential to incur (additional) costs above baseline costs.
+The first step is to determine the cost to the State of each identified risk, depending on whether the Project is carried out under a public contract or a PPP. This cost is calculated as follows:
+
+Where:
+= Probability of occurrence of risk n
+= Reference value or base cost defined for risk n – established for each risk according to its nature
+= Share of the risk borne by the state or the cost of the impact – varies according to the option considered (public contract or PPP).
+The risks are classified according to the stages of the project in which they occur, namely:
+Planning
+Procurement
+Design
+Construction
+Operating period which includes both operation and maintenance of the infrastructure
+Renewal and transfer (handover) period that takes into account life cycle expenses and handover of infrastructure at contract expiration.
+Risks at each of the above project stages will be subdivided into the following sub-categories:
+Technical – covering aspects such as asset efficiency, durability and achievement of specification
+Legal - covering aspects related to changes in laws or compliance with existing laws and regulations
+Commercial - covering aspects related to input prices, general availability of inputs as well as insurability of risks
+Financial/monetary – covering aspects related to the impact of changes in key financial variables such as inflation, interest rate and exchange rate, public financing shortfall, private financing shortfall, debt default, remuneration
+Political/social - covering aspects related to social unrest, overt civil unrest, industrial strikes, terrorism, etc.
+Environmental - covering aspects related to the environmental issues that could be faced by the project.
+As for the probability of occurrence and the rank, it is the probability that a risk occurs and is described as a percentage and a descriptive rank.
+The financial impact of a risk (share of the risk borne by the state) is assessed according to three scenarios: Maximum, Medium and Minimal impact scenario, reflecting cost impact as a result of the risk occurrence.
+Cost, revenue and economic assumptions
+The overall CAPEX, OPEX and Revenue assumptions of the project (MKW‘000, 2023 Terms) are presented in the following table:
+The retained macro-economic parameters for the project period are as follows:
+Retained annual inflation rate for the construction period: 25%.
+Retained annual inflation rate for the operation period: 20%.
+10-Year Bond/Treasury Note Yield:
+Malawi Government 10-Year Treasury Note Yield has been used as the Discount Factor for calculating present values of future cash flows. The 10-Year Treasury Note was introduced on the market in September 2019 and its yield has averaged 24.86% per annum over the past 5 years. This average yield has also been used as the Interest Rate on all Local Currency Long Term Debt that the Project will raise as part of its Capital Structure.
+Cash Flow Discount Factor (WACC): The WACC is estimated at 27.2%. This is derived from the average long term equity market return of 30.7% per annum and the average long term bond yield of 24.8% per annum above.
+Private Interest Rate: 22.70% per annum.
+This is the Interest Rate based on which commercial banks price their short-term credit facilities. Normally a risk premium of up to 11.00% is added to determine the final price based on the risk profile of the customer. The Project has assumed a risk premium of 3.50% on all its Local Currency Short Term Debts.
+Public Interest Rate: 24.8% per annum, which is the current average long term bond yield. Although the present long term bond yield is 33% per annum, with debt restructuring measures and austerity measures being implemented by Government under a new IMF Extended Credit Facility Program, the long-term bond yield should trend towards the average long-term yield in the long run.
+Reference exchange rate for cost calculations: 1095.32 MK/ $ (July 2023). We should mention that the value of the MKW has dropped in November 2023 to reach 1 700 MK/ $.
+Long term annual depreciation rate of the value of the Kwacha: 10.2% (in converting all foreign currency capital and operating expenditure items).
+Annual GDP growth: 3.6% during the project’s forecast period.
+Annual population growth rate: 2,81% during the forecast period.
+VAT Rate: 16,5%.
+Corporate income rate: 30%.
+
+PPP Options
+Based on the client’s recommendations, the Needs and Options Analysis report, the qualitative comparison, the outcomes of the benchmark study and project specific features, we recommend the DBFOM PPP delivery model for the implementation the Botanical Gardens:
+The Design-Build-Finance-Operate-Maintain (DBFOM) model is a comprehensive form of Public-Private Partnership (PPP) where a private entity or consortium is responsible for the entire lifecycle of a project. This approach integrates five key phases: design, construction, financing, operation, and maintenance. In DBFOM, the private partner designs and constructs the project, arranges the necessary financing, and then operates and maintains the facility for a predetermined period. This model is often used for large infrastructure projects, as it leverages the efficiency, expertise, and financial capabilities of the private sector while sharing risks between the public and private entities. At the end of the contract term, the project is typically handed back to the public sector. Here's a breakdown of the DBFOM model components:
+Private sector makes capital investments in infrastructure
+Ownership of assets remains with the public sector
+The private sector operator is responsible for the operation and management of specific tasks or assets
+Private Sector Revenue: Usually payments based on user fees or third-party revenues
+Optimal risk transfer, private sector financing and incentive system
+Life cycle approach to infrastructure
+Predefinition of service quality requirements and target specifications
+The public sector retains much control over the quality of service and price. Assets remain under the control of the public sector.
+
+Results of the financial modelling
+The financial modelling of a PPP project aims to test the bankability of the project, i.e its ability to attract private financing with its two components: debt and equity. These financing resources could also be complemented by a possible contribution of the State in the investment cost financing through subsidies.
+The following general assumptions were used in the model:
+Duration of the PPP contract: 30 years
+Duration of construction period: 2 years
+Construction profile per year:
+Year 1: 50%
+Year 2: 50%
+Average amortization period: 28 years
+The following financial structure assumptions were used in the model:
+Equity: 30% of total debt and equity
+Debt: 70% of total debt and equity
+Debt maturity: 28 years
+Interest rate (private sector): 26.20%
+Interest rate (public sector): 24.86%
+Grace period: 2 years
+Reimbursement method: constant P+I (Principal + Debt).
+We have considered 6 scenarios for the project implementation, namely:
+Scenario 1 – All projects’ facilities without public subsidy (each Botanic Garden separately/ whole project)
+Scenario 2 – Projects without the boundary fence, without public subsidy (each Botanic Garden separately)
+Scenario 3 – Projects without offices and boundary fence (tourist components only), without public subsidy (each Botanic Garden separately/ whole project)
+Scenario 4 – Whole Project with public subsidy not exceeding 40%
+Scenario 5 – Whole Project with tourist components only at duty-free prices – without subsidy
+Scenario 6 – Whole Project with tourist facilities only, with public subsidy not exceeding 40% and with optimistic occupancy rates for hospitality services.
+
+For each scenario, we have tested several levels of occupancy rates for the accommodation and conferences facilities. For each test, the model calculates the equity IRR achieved. If we get an IRR above the target (estimated in our case 30.7% based on the 10-year average annual market return on the Malawi Stock Exchange), then we calculate the ADSCR, if the ADSCR is below 1.2 then we increase the subsidy percentage until we get an ADSCR close to 1.2.
+In the Scenario 6, the public subsidy for the project is set at 42%. Additionally, we've adopted optimistic projections for the occupancy rates of hospitality services, which include guest accommodation and conference facilities. This suggests that a significant commercial and marketing efforts would be crucial from the start of the operation period to achieve the projected occupancy levels, which are vital for ensuring the project's profitability.
+This scenario presents an Equity IRR of 30.87%, surpassing the targeted threshold. Such an increase in public subsidy would reduce the financial burden on equity investors and enhance their returns, making the project more appealing and financially viable from their perspective.
+Similarly, the Project IRR, encompassing the overall returns considering both debt and equity financing, also presents a positive scenario. This comprehensive measure of profitability implies that the project, as a whole, is expected to generate enough revenue to not only sustain its operational and maintenance costs but also to adequately reward the capital invested.
+Moreover, the Minimum ADSCR being at a satisfactory level suggests that the project's annual income is more than sufficient to cover its annual debt obligations. This is an assurance to lenders and financial institutions about the project's capacity to meet its debt-related liabilities without strain.
+
+Value for Money Assessment
+The Value for money (hereafter “VfM”) analysis involves carrying out an assessment of the overall cost of the project, taking into account the value of the inherent risks, depending on whether the project is carried out under a public contract or a PPP. The analysis and comparison of the financial profitability of the different options is ultimately measured by means of the VfM.
+It is worth noting that the Value for Money only makes sense for scenarios that are bankable (Debt is paid with DSCR >1.2) and attractive to investors (Equity IRR > Target). In this case, the quantitative VfM analysis will be applied only on the Scenario 6: Whole project (tourist facilities only) - with public subsidy up to 42%/ optimistic occupancy rates under a DBFOM model.
+Despite the negative NPV, the Value for Money (VfM) for the DBFOM model under this scenario is positive, at 2,657,425 '000 MK, equating to 55.2%, which still offers better value compared to traditional public procurement methods. The VfM percentage reflects the comparative cost-effectiveness of the PPP approach, emphasising its financial efficiency despite the inherent risks and associated costs.
+This suggests that the PPP model, even with a significant public subsidy and risk factors, can still be a more economically advantageous option for the implementation of this project.
+The qualitative assessment of the VfM includes the review of the efficiencies that the SPV can provide, the existence of a competitive market, the possibility of risk transfer to the developer/investor and whether such risk transfer will be achieved within the life of the project. The qualitative VfM analysis answered a series of questions about the proposed project in relation to Viability, Desirability and Achievability.
+In summary, the study endorses Scenario 6: Whole project (tourist facilities only) - with public subsidy up to 42%/ optimistic occupancy rates as the definitive model for a Public-Private Partnership that can meet the profit goals of private investors while also providing good value for the public sector. It is the only scenario that offers a practical and advantageous plan for the project's successful completion, outlined with a clear understanding of financial strategy and foresight.
+Mobilizing private financing through lenders requires structuring a bankable project. This is conditional on substantial support from the state in order to guarantee the mobilization of the financial resources necessary for the payment of rents.
+
+
+Introduction
+Project description
+Established in 1987 under Act of Parliament number 7 of 1987, the National Herbarium and Botanic Gardens of Malawi (NHBG) is a parastatal botanical institution responsible for research and study of plants, including documentation about traditional uses, classification and conservation of plants of Malawi. The NHBG was formed by merging two distinct institutions, the herbarium and botanic gardens. The herbarium is a collection of preserved plant specimens and associated data used for scientific study whilst botanic gardens are institutions that maintain collection of living plants for purposes of public education and enjoyment in addition to research conservation and higher learning. At the establishment, the NHBG inherited plant specimens from herbaria of University of Malawi, Forestry Department and Department of Crops in the Ministry of Agriculture. It also inherited the Zomba Botanic Garden from the Forestry Department and also established a botanical garden in Lilongwe and another in Mzuzu. The NHBG has its headquarters in Zomba and regional offices in Lilongwe and Mzuzu.
+The National Herbarium houses over 100,000 plant specimens (including mushrooms, ferns, mosses, algae, lichens) collected all over Malawi and a carpological collection of about 200 accessions. The herbarium therefore is Malawi’s plant data bank and hence is very important for plant identification, conservation, taxonomic research, reference and loan exchange of herbarium specimens between herbaria. Using information from herbarium specimen labels staff at the National Herbarium can provide phenological data of most plant species, their distributions, habitats and uses. 
+The NHBG operates on government subvention and generates little income from sales of seedlings, entry fees and events such as weddings. As presented in Figure 1 below, Government subvention for the past five years ranged from MK300 million to MK750 million. This is against NHBG’s funding application which ranges between MK1.4 billion and MK3.2 billion annually. It is important to point out however that approved budgets do not include development budget such that the NHBG has not managed to construct the much-needed NHBG headquarters which would comprised a modern herbarium with modern herbarium cabinets (compactors), laboratories, perimeter fences, plant propagations facilities such as glass houses, and educations centres. 
+The NHBG provides a number of services some of which includes; horticulture Services e.g. propagation and sale of ornamental flowers, indigenous tree seedlings, medicinal and fruit tree seedlings, landscaping Services, recreation services, environmental education Services, Environmental Impact Assessment, botany teaching at University of Malawi, and plant identification services. These services are provided at a fees and available data shows that NHBG’s annual revenue ranged from Mk15 million in 2017 to Mk45 million in 2022.  This means that given the right infrastructure the NHBG would be in a position to generate adequate income to finance some of its activities.  However government funding is not adequate to invest into sustainable income generating entities and because of this the NHBG wishes to partner with private entities in the management of botanic gardens and it was on this basis that the NHBG together with PPP is facilitating the PPP study in order to:
+To determine the technical, legal, financial and environmental feasibility of development and construction of infrastructure befitting an herbarium and botanical gardens, under a PPP arrangement and recommend the best way to structure the PPP;
+To support NHBG in identifying a private partner to design, finance, construct, operate and transfer the infrastructure.
+
+Objective of the feasibility study report
+The objective of the current project is to develop botanic gardens for the National Herbarium and Botanic Gardens (NHBG) with the aim of fostering a harmonious balance between ecological preservation and public education. The development is envisioned to include a variety of landscapes and facilities that will not only conserve a diverse range of plant species but also offer educational programs and research opportunities. These botanic gardens are intended to serve as a sanctuary for biodiversity, facilitating the conservation of both local and exotic flora. By doing so, they will enhance the NHBG's capacity to support conservation efforts and provide a resource for scientific research, while also creating spaces for public enjoyment and learning. These investments in the botanic gardens will enable the NHBG to enhance its quality of service as a centre for botanical research, education and conservation. This project will enable the NHBG to enhance its quality of service as a botanical institution.
+As a transaction advisor, Unshackle Africa JV (the Consultant) has been selected by the NHBG and the Public-Private Partnership Commission (PPPC) to assist in the development and implementation of the assignment through:
+Assessing the technical, legal, financial and environmental feasibility of development and implementing the Tourist facilities, Visitors Centres, Events Gardens, Game Ranch in Mzuzu, Boundary Fence walls and Head Office in Zomba as well as Regional offices in Lilongwe and Mzuzu under a PPP framework;
+Supporting NHBG in identifying the private partner to design, finance, construct, operate and transfer the infrastructure.
+The previous deliverables provided by the Consultant consisted of:
+An Inception Report, which described the planning that the Consultant has established for studies, staffing and other relevant remarks, summarized the initial conclusions and provided defined proposals for the methodologies of the technical, socio-economic, financial and environmental feasibility studies for the recruitment of a partner for the completion of the works through a PPP scheme.
+A Needs and Options Analysis Report, which defined the most appropriate PPP procurement strategies and shortlisted transaction structures to be taken into consideration according to the vision and priorities of the NHBG, the PPPC and the Malawian public authorities.
+A Scheme/Concept Design Report, which responded to NHBG’s requirements as established in the Needs and Options Analysis Report and provided a scheme design for Tourist facilities, Visitors Centres, Events Gardens, Game Ranch in Mzuzu, Boundary Fence walls and Head Office in Zomba as well as Regional offices in Lilongwe and Mzuzu. This deliverable formed the basis for determining the cost of the proposed development, which will be used in the feasibility and viability analysis of the project.
+The aim of this report is to provide a comprehensive Feasibility Study, which investigates the preferred identified implementation options and finalizes transaction structure. The Feasibility Study should enable the PPPC to determine the project parameters such as project cycle costs, affordability, service levels, risks and their costs and investment results.
+The feasibility study is inclusive of:
+An international benchmark study for similar botanical gardens or cultural PPP projects;
+A Technical, Environmental, Legal and Regulatory assessment of the project;
+A comprehensive assessment of all the risks encountered by the project during its lifecycle;
+A Financial assessment and Modelling of the project reflecting optimal design parameters;
+A Value for Money (VfM) and Affordability analysis; and
+Payment mechanisms and NHBG potential share of profit. 
+The Feasibility will demonstrate affordability for the full project life cycle and propose the optimal solution for the NHBG to achieve its desired outcomes, by considering the constraints and concerns of all the key stakeholders involved.
+
+Benchmark study for similar Botanical Gardens PPP projects
+The main objective of the benchmark study is to identify performance gaps and opportunities for improving the efficiency and effectiveness of the development of the NHBG botanic gardens by prospecting similar projects, and to understand the business models used for their economic developments.
+In this section, we will present an international benchmark study of relevant PPP projects for botanic gardens and other similar cultural and touristic projects, namely:
+The public gardens of Ahmedabad in India;
+The Malta Landscaping Project; and
+The São Paulo Botanical Garden and Zoo in Brazil.
+This benchmark study is based on documentary research as well as the consultant's experience in advising clients on different modes of PPP procurement for similar projects around the world.
+
+The public gardens of Ahmedabad in India
+Project Presentation
+Ahmedabad is the largest city in the state of Gujarat and the seventh largest city in India. Ahmedabad Municipal Corporation (AMC) is responsible for the civic infrastructure and administration of the city of Ahmedabad. The area falling outside the periphery of AMC is maintained by Ahmedabad Urban Development Authority (AUDA). 
+Ahmedabad has a total of 214 Public Gardens. Maintaining these gardens cost the government a huge sum of money, a lot of effort to deal with different contracts and addressing people’s complaints. by The Ahmedabad Urban Development Authority (AUDA) came up with an innovative idea which could help the government cut down its cost on Garden maintenance- The Public Private Partnership (PPP) model. AUDA offered Anand Milk Federation Union Limited (AMUL) to maintain their gardens and in return AUDA would allow AMUL to put up a retail shop in the AUDA garden. The revenue from the shop would contribute to pay for garden maintenance. AMUL (Anand Milk Federation Union Limited) is an Indian dairy cooperative which spurred India’s White Revolution and made the country the world’s largest producer of milk and milk products. AMUL has expertise in making Milk and Milk products. But, to maintain so many gardens would require an organization which has proficiency in this sector. AMUL then approached Gujarat Environmental Service Society (GESS) a trust which was established by a group organization like AMUL, NDDB, GCMMF, Charotar Arogya Mandal, Elecon Engg. Co. Ltd, IRMA and member unions of GCMMF.   
+
+
+
+
+
+Project Structuration
+The project has been structured through an “O&M” contract. The private operator operates and maintains an asset for the public partner, usually at an agreed level with special obligations. Work is often subcontracted to specialised maintenance companies. It is here the case with the companies named previously. AMUL entered into a contract for garden maintenance with GESS where GESS is paid as per the actual cost incurred for the maintenance of the gardens and a fixed percentage of the expenditure as its profit. Having a single agency for the maintenance has helped AMUL decrease their effort and the continuity has helped in the improvement of the gardens.
+The Malta landscaping project/ the Malta Gardens
+Project Description
+The Malta Gardens project, a landmark Public-Private Partnership (PPP) in Malta, commenced on November 1, 2002, marking a significant step in enhancing the environmental landscape of the Maltese Islands. The initiative, undertaken by the Malta Environmental and Landscaping Projects (MELP), focused on the landscaping and maintenance of public gardens, roundabouts, and central strips primarily on arterial and secondary roads. Responsibilities under this project included the meticulous monitoring of sites assigned to the Environmental and Landscapes Consortium Ltd. (ELC), verifying and approving new designs for soft and hard landscaping, and coordinating the use of public gardens for various activities. The project aimed to revitalize and maintain public spaces, contributing significantly to the aesthetic and environmental improvement of Malta's urban areas.
+
+Project Structure
+The PPP structure of the Malta Gardens project involved a partnership between the Maltese Government and ELC, with MELP overseeing and monitoring the contract's implementation. The original contractor, ELC, led by the Polidano Group, managed the project for nearly 20 years, with government expenditure exceeding €100 million during this period. The contract saw a change in 2022 when a €33.5 million contract was awarded to GEB Landscaping, led by V&C Contractors, Ozo Group, Derek Garden Centre, and Sicilville SRL. The contract, expected to run until 2027, includes a basic annual government funding of €6.7 million, with additional direct orders incurring extra costs. Throughout its tenure, the project faced challenges such as non-adherence to contractual provisions by the contractor, ineffective monitoring by the government, and issues regarding the negotiation, implementation, and enforcement of the contract, highlighting complexities in managing such large-scale PPP endeavors.
+ELC was delegated the responsibility to manage Government’s landscaping operations, utilize specified Government sites for commercial purposes (namely Wied Inċita Nursery) and undertake other gardening, landscaping and embellishment functions. Over the span of 15 years, the government’s expenditure relating directly to the 2002 Agreement and its two subsequent Contract Extensions amounted to over €100 Million. Only €43,223 were generated in 2016 through activities organized by ELC within the public gardens managed through this PPP Agreement. The Malta Embellishment and Landscaping Project (MELP) Monitoring Unit is responsible for the implementation and monitoring of this PPP Agreement.
+The main thrust of the landscaping works related to the upkeep and maintenance of a number of sites around Malta and Gozo operations in an O&M (Operate and maintain) model. In 2016, the contracted allocation of this deliverable amounted to €8,650,000. The PPP Agreement, through its latest Addendum also refers to the undertaking of upgrading of existing landscaped areas and new projects where the Contract allocates €400,000 annually from 2014 onwards. Additionally, the Agreement also outlines various other deliverables. These include the undertaking of four medium-sized projects at the Contractor’s expense as a sign of co-operation and collaboration towards the PPP, the delivery of a training programme aimed at students following horticultural studies as well as the promotion and revenue generation through the utilization of public gardens maintained by the Contractor.
+Main challenges
+Upon the evaluation of the PPP there was enough proof that the government did not reap the full benefits in terms of sites serviced since the footprint capacity of landscaping maintenance as provided for by the Contract remained not fully utilized. Such a situation implies contract management and monitoring shortcomings, which ultimately led to Government incurring additional expenses as ELC were awarded other contracts where the possibility existed for such works to be undertaken through the PPP Agreement.
+Disputes over maintenance levels, which in part led to litigation between the Parties, highlights that mechanisms intended to ascertain that service delivery complies with contractual obligations including MELP’s direction were not fully operative. At the outset this highlights procedural weaknesses since the Contractor has, at times, changed maintenance levels of sites without prior formal authorization by MELP. Procedural failures became more exacerbated as the Parties did not find the means to resolve the significant variances, which inevitably resulted.
+Service delivery concerns also relate to the non-completion of four medium-sized projects, which were to be undertaken at the Contractor’s expense as a sign of cooperation and collaboration towards the continued success of the PPP. The Contractor is contractually obliged to deliver these projects by end 2017.
+
+São Paulo Botanical Garden and Zoo, Brazil
+Project Description
+The São Paulo Zoo and Botanical Garden project encompasses the São Paulo Zoological Park, Zoo Safari, and the Botanical Garden, located in the Fontes do Ipiranga State Park, a significant remnant of the Atlantic Forest in São Paulo. The objective is to enhance these areas through conservation, operation, and modernization, focusing on ecotourism, cultural sectors, leisure, and environmental education. The project aims to integrate public use with environmental education programs, leisure, culture, and more accessibility, integrating research activities at the Botanical Garden. At the Zoo, the focus is on providing more natural immersion and improved animal welfare.
+
+Source: https://naturezaurbana.net/en/projects/sao-paulo-zoo-and-botanical-garden/
+Project Structure
+This project is structured as a public-private partnership (PPP) for the concession of the Zoo and Botanical Garden, with the São Paulo government as the public partner. The concession period is set for 30 years starting from the contract award date which was on February 23rd 2021, and the winning private consortium is Consórcio Reserva Paulista. The total contract value is R$417.5 million (85.8 million USD), with a minimum investment of R$263 million (54.05 million USD) and R$180 million (37 million USD) in the first five years. The private partner is responsible for the conservation, maintenance, operation, and modernization of the parks, and they gain revenue through entrance fees and services offered within the park areas.
+Summary of the benchmark study and lessons learned
+Local Urban Bodies/ Cities have been adopting the PPP model in various infrastructure projects to achieve one or more than one the following objectives:
+Augmenting Funds
+Superior Project Delivery
+Improve Efficiencies & Competitive Environment.
+In most of these infrastructure projects, the PPP models used are the DBFOM, O&M and ROT models. The revenue stream in most cases comes from user payments (leasing fees, commercial activities, etc.) with support from the government in the form of grants when needed.
+There is no doubt that these projects have faced difficulties, delays, performance gaps and in extreme cases project cancellation (ex: The Malta Landscaping Project). To avoid such problems going forward with the NHBG botanical gardens Project, a number of recommendations should be taken into consideration.
+First, minimizing future deviations from financial, economic, and social projections with respect to project outcomes at the initial preparation stages is a key success factor. There must also be a safe and stable return on investment (ROI) model in place – one that is fair to both private and public partners.
+Under the PPP model where botanic gardens are financed with user fees, the private-sector partner assumes most of the financial risk associated with the garden. However, the accuracy of usage projections can be difficult to predict, and if there is a shortfall in the expected number of visitors, the private-sector partner may face financial stress. Although public entities may not experience significant financial losses if calculations are incorrect, they may still suffer if their private-sector partner must find workaround strategies to address a shortfall in visitors. For example, the private-sector partner may need to cut back on maintenance or reduce the quality of the visitor experience, which could harm the garden's reputation and reduce future demand for the garden.
+
+
+Technical and environmental assessment of the project
+Assessment of technical issues
+Due to increasing pressure on land especially in urban areas driven by rapid urbanization, it is now usual that zoning requirements in these areas provide for developments on more than single storey. For the proposed developments within the Botanical Gardens, however, a majority of them except for the offices at Zomba Botanical Garden are single storey structures so as not to be intrusive and also to blend in with their sensitive environments.
+Assessment of the environmental and social impacts
+Section 24 (1) of the Environmental Management Act (EMA) provides a list of projects for which an environmental impact assessment (EIA) may be required. In its List A – List of Projects for Which EIA is Mandatory and specifically A12 cites Tourism Development Projects providing accommodation of 50 persons and more fall in this category. 
+When taken together the three (3) Botanical Gardens propose to provide tourist accommodation of 50 persons or more (Zomba – 32 persons, Lilongwe – 40 persons and Mzuzu – 24 persons) and would meet these criteria but each of the Gardens falls short of meeting the threshold. Since EIA’s are conducted for a particular environment and a project’s impacts on that environment it would be appropriate to apply to the Director of MEPA for the proposed developments for each of the Botanical Gardens for a determination on whether an EIA is required by submitting Project Briefs in accordance with the provisions of Section 26 of the EMA.    
+
+Legal and regulatory assessment of the project
+Introduction
+The Feasibility Study aims to ensure that the most appropriate legal solutions are identified at an early stage by mapping and programming the procurement timetable by reference to applicable legislation and testing the commercial principles against their deliverability in a legal and regulatory context.
+This Feasibility Study will conduct a preliminary review of the current legal and regulatory framework in Malawi in order to assess:
+Preparedness of the enabling environment for the Project – covering assessment of the current status of reforms in Malawi;
+Raising any legal issues in relation to the project;
+Legislative constraints and drawbacks and
+Principal approvals and permits to be obtained.
+The legal assessment of the project aims to:
+Identify potential legal and regulatory compliance issues and risks, including any real estate issue;
+Develop the preliminary contractual framework for the Project;
+Provide advice on procurement strategy and project management generally, particularly as regards the implementation of the legal and contractual requirements of a major infrastructure project.
+The legal, regulatory and policy framework in Malawi
+The legal, regulatory and policy framework for the project comprises the Republic of Malawi Constitution of 1994 as well as various legislations that cover public private partnerships, infrastructure development permits, Environment and biodiversity conversion policies, land laws, foreign direct investments, controls on foreign exchange transactions, dividend repatriation and requirement for environmental and social impact assessments.
+The legal framework for PPP in Malawi previously consisted of the Public-Private Partnership Act (the “PPP Act”) adopted on 22 December 2011, which had aimed at providing:
+for partnerships between the public sector and private sector for the supply of infrastructure and delivery of services as means of contributing towards sustaining economic growth, social development and infrastructure development;
+for the development and implementation of public private partnership arrangements in Malawi for the delivery of infrastructure and services; to provide for the establishment of the Public-Private Partnership Commission;
+for private sector participation in state-owned enterprises, commercial entities and commercial assets; and to provide for matters connected with or incidental to the foregoing.
+The PPP Act facilitated the development and implementation of public-private partnership arrangements for purposes of efficient delivery of infrastructure and services in order to achieve sustainable economic growth and social development, therefore it can be perfectly adapted to the Project. 
+The PPP Act of December 2011 was repealed by the PPP Bill that was enacted into law by Parliament on the 5th April 2022. The overall objective of the review was to promote expedited and efficient implementation of PPP arrangements. The PPP Law of April 2022 provides for the possibility to structure the Project through: 
+a Special Purpose Vehicle (SPV) incorporated under the Companies Act specifically for this purpose or;
+a Joint Venture agreement (JV) between the Contracting Authority and the private Partner, provided that the Joint Venture provisions may be incorporated into the public-private partnership agreement.
+The shareholders of the Special Purpose Vehicle shall be the Minister responsible for Finance and the private Partner and the two must enter into a Shareholders agreement the terms of which must be as prescribed by the Minister.
+The PPP framework in Malawi also comprises the Public-Private Partnership Policy Framework, approved by Cabinet on 18 May 2011, setting out the policy framework for initiating, designing and implementation of PPPs in Malawi.
+The legal status of the National Herbarium and Botanic Gardens of Malawi as a Contracting Party
+The National Herbarium and Botanic Gardens of Malawi is a government institution that was established in 1944 under the Department of Forestry, but it is currently under the Ministry of Forestry and Natural Resources. Its legal status is that of a statutory body established under the National Herbarium and Botanic Gardens Act of 1982.
+The Act provides for the establishment, maintenance, and management of a national herbarium and botanic garden in Malawi. It outlines the functions of the institution, which include the collection, preservation, and identification of plants, as well as research, education, and public awareness activities related to plant conservation and sustainable use.
+The Act also establishes a Board of Trustees that is responsible for the general administration and control of the institution. The Board is appointed by the Minister of Forestry and Natural Resources and is responsible for ensuring that the institution operates in accordance with the provisions of the Act.
+Overall, the National Herbarium and Botanic Gardens of Malawi has a legal status as a government institution with a mandate to promote the conservation and sustainable use of plant biodiversity in Malawi.
+Different statutory permits and approvals before the project implementation
+The law in Malawi provides for permits and approvals that are to be obtained before the implementation of an infrastructure development project.
+Planning Permission
+In the undertaking of the infrastructure project, there will be need to make an application for and to obtain a planning permission which ensures that the project plans are in line with the land use and zoning requirements of local government authorities. Section 43A of the Physical Planning (Amendment) Act No. 12 of 2022 provides that a person shall not carry out any developments within a planning area in Malawi without a planning permission.
+Development Permission
+After obtaining a planning permission, a developer may apply for the development permission. Section 24 (2) of the Land Act of 2016 provides that a lessee shall not undertake any development of the leased land without first obtaining a grant of development permission from the Commissioner of Physical Planning. A development permission application is submitted by the a registered physical planner to the Commissioner and once internal approval processes are followed, an applicant is to be informed of the decision within 30 days failure of which an applicant shall proceed to commence development after the expiry of 60 days from the date the application was made. Section 44 of the Physical Planning Act of 2016 provides that certain types and classes of development listed in the first schedule are permitted developments and are exempt from development permission. The development of a botanic garden is not exempted and hence a development permit will need to be obtained for the NHBG infrastructure project.
+It should however be noted that the practice that obtains at the Lilongwe City Council is marginally different from what the law provides. The two processes of obtaining a planning and development permission are combined. A developer submits development plans and completes the relevant Lilongwe City Council forms. The forms are signed by an Architect and a Structural Engineer. The compilation is sent to the Ministry of Lands for verification of ownership of land by the proposed developer. Once completed, the developer pays appropriate scrutiny fees and awaits the decision on the application.
+The process for obtaining planning and development permission in Zomba City Council is similar to that of the Mzuzu City Council. This involves submitting development plans and relevant forms to the Zomba City Council, paying scrutiny fees, and awaiting a decision on the application. The council may also require developers to obtain the necessary approvals from other relevant government agencies, such as the Ministry of Lands, before construction can proceed.
+Environmental Impact Assessment (EIA) 
+EIA is a mandatory requirement for all projects that may have an impact on the environment. The EIA process is intended to identify potential environmental risks and to propose measures to mitigate these risks. The Environmental Management Act (EMA) No. 19 of 2017 governs the EIA process in Malawi.
+Business permission
+The developer may need to obtain various business permits and licenses to operate the Botanic Gardens, such as a business license, tax identification number, and permits for the sale of plants or other products. The Business Registration Act of 2012 and the Taxation Act of 2016 govern the issuance of business permits and licenses in Malawi. The Water Resources Act of 2013 and the Environmental Management Act of 2017 govern the use and management of water resources in Malawi.
+Pesticide Application Permit
+As mentioned earlier, the Pesticides Act of 2000 governs the use of pesticides in Malawi. Therefore, a pesticide application permit may be required for the use of pesticides in the Botanic Gardens project. The permit is issued by the Pesticides Control Board.
+Plant Import and Export Permit
+The Plant Protection Act of 2018 governs the importation and exportation of plants in Malawi. Therefore, if the Botanic Gardens project involves the importation or exportation of plants, a plant import or export permit may be required. The permit is issued by the Ministry of Agriculture.
+Water permission
+The developer will need to obtain water permits from the relevant authorities for the use of water resources. The Water Resources Act of 2013 and the Environmental Management Act of 2017 govern the use and management of water resources in Malawi.
+
+Investment and foreign exchange control
+Section 28 of the Republic of Malawi Constitution provides for the right to own property and prohibits the arbitrary deprivation of property. Implicit in the right to own property is the freedom to invest. As such legislation has been passed to promote investment through ownership of land, permit of transactions in foreign currency, dividend repatriation and tax exemption on infrastructure projects.
+Section 3 of the Exchange Control Act of 1989 provides that regulations may be made on exchange of foreign currency and taking out of foreign currency. Regulation 11 (3) and (4) of the Exchange Control Regulations allows the taking out/ transfer of foreign currency equivalent to the amount brought in with the permission of the Reserve Bank of Malawi or the Minister of Finance. Regulation 14 further allows the payment in foreign currency where permission is obtained. 
+Regulation 18 provides that ministerial permission is required to transfer securities to non-residents. The registration of loans or securities by an investor allows for dividend repatriation in Malawi. A foreign investor can make international payments on the contracts that are engaged in the implementation of the project under public -private partnership once the investment is registered as a security at the Reserve Bank of Malawi.
+It should, however, be noted that Regulation 2 of the Exchange Control (Use of Foreign Currency in Local Transactions) provides that no person shall quote or accept quotation of prices for payment in foreign currency or demand or make payment in foreign currency for goods or services sold or provided in Malawi. There is divergent interpretation by the Courts on the Regulations. A liberal approach has been taken that validates contracts that provide for pricing in foreign currency as long as the intention of the parties is to demand for payment or make payment in Malawi kwacha. Courts have also been very strict where contracts have been declared to be illegal and unenforceable once pricing is quoted in foreign currency. The risk reduction measure is to provide for pricing in Malawi Kwacha for goods and services provided in Malawi.
+The law allows foreign land ownership for investors. With regard to land designated for investment purposes, section 11 of the Land (Amendment) Act No.5 of 2022 provides that land shall be designated for investment and published in the Gazette, and this may be allocated for investment purposes. NHBG shall be responsible for the allocation and the land maybe withdrawn if not developed within 2 years. 
+The Malawi Tax Incentives of June 2022 aim at encouraging development amongst others. The General Customs and Excise Tax Incentives provide exemption on importation of machinery. In the Construction sector, duty and VAT free importation is allowed for Crane Lorries, Concrete Mixer Lorries and other Tractors. 
+The Preliminary Contractual Framework for the Project
+The Project can be structured through a public private partnership or an Engineering, Procurement and Construction (EPC) Contract. The legal framework in Malawi allows both structures.
+EPC contracts are a simpler and proven procurement route easier than PPP contracts which can be considered as more complex. Whilst the EPC route provides a simple contractual framework and fast procurement process, it requires the underlying infrastructure to be entirely funded during the construction period by the public sector. Moreover, the risk profile of an EPC contract is less favourable to the public sector as the main risks (such as cost overruns, delays and interfaces) are not transferred to the contractors. Furthermore, the term of an EPC contract is limited to the construction period of the asset with possible negative impacts on the whole life cost of the infrastructure.
+Conversely, PPP contracts require relatively long procurement periods in order to address the inherent complexity arising from the necessity to assess and allocate project risks between the public and private sectors. Furthermore, PPP contracts allow the public sector to rely on private funders (lenders and investors) to partly fund the capital investment costs during the construction period. PPP contracts encourage contractors to adopt a whole life cost approach to the development of the infrastructure. 
+EPC contracts are commonly adopted in the development of real estate projects. Under an EPC contract, an entity is contracted to design and construct a piece of infrastructure system. Payment is usually based on a fixed lump sum price basis, but incentives, such as milestone payments or target costs (e.g. gain / pain share mechanisms) can be built into the contract. 
+For the purposes of the Project, it is important to highlight two key differences between EPC contract and a PPP contract:
+No private funding - under an EPC contract, the public entity would need to pay the contractor at construction milestones. The public entity should therefore have access to sufficient funds to do so.
+No post-construction maintenance responsibility - under an EPC contract, the contractor is not usually responsible for maintenance of the asset post-completion. The public contractor would need to enter into a separate maintenance contract for the infrastructure.
+Under a PPP contract, the contractor is responsible for the design, construction, maintenance, whole life cost and funding of the infrastructure. The contractor's key obligation is to make the infrastructure "available" to the public contractor through a fixed operational term (typically 20-25 years). 
+The cycle of PPP contracts in Malawi initiated by the public authorities goes through 5 phases:
+In the first phase, the PPP committee or the contracting public authority, with the support of the PPP committee, identifies the project to be implemented as a PPP, either by itself or jointly with another person or contracting authority. To this end, a Needs and Options Analysis is carried out in order to determine whether the PPP is the best solution for providing the envisaged service or infrastructure to be set up through the project in relation to other public procurement processes.
+The conduct of this analysis is followed by the completion of a pre-feasibility study and an initial viability analysis of the Project. The pre-feasibility study indicates the possible location(s), route(s) and general cost estimates of the project and an initial indication of the likelihood of the project being viable and affordable. 
+In coordination with the Review and Authorisation Unit of the Ministry of Finance, the PPP Commission determines the requirements for the pre-feasibility study and decides whether a full feasibility study should be carried out for the project.
+In the second phase, the contracting authority carries out a technical, financial and legal feasibility study, either through the PPP Commission or by itself when authorised by the Commission. The purpose of this study is to enable the government to assess whether the project to be carried out is sound and whether it meets the criteria of viability, risk, bankability, accessibility and appropriateness set by the government. The feasibility study should show that delivering the project as a PPP offers competitive advantages, that the PPP is the most appropriate instrument for delivering the project, that it is affordable for the contracting authority, that it offers good value for money, and that it transfers technical, financial or operational risks to the private contractor. It should also demonstrate the capacity of the contracting authority to implement the contract effectively and specify the role and functions to be performed by the public authority in setting up and implementing the agreement.
+The next phase for project implementation is the procurement phase to select the private partner best suited to implement and execute the project. The Commission considers carrying out a pre-qualification exercise to select potential bidders or may delegate the carrying out of the pre-qualification to the contracting authority when it considers that the contracting authority has the necessary expertise to undertake this step.
+The invitation to tenderers to submit tenders is made through the tender document which is prepared by the Commission, and which includes a public invitation to pre-qualified tenderers to submit tenders.
+In evaluating the bids submitted, the PPP committee ensures that all bidders have equal opportunities and that their bids are treated fairly. To this end, the tender must clearly state the evaluation criteria that will be used as a basis for the evaluation of the bids. 
+After the selection phase, the fourth phase involves drawing up the final PPP contract and signing it with the selected bidder. The public-private partnership contract may only be concluded on the basis of a decision of the PPP Committee, after obtaining the consent of the Minister of Finance and his agreement on the final version of the contract to be signed. Within thirty days from the date of receipt of the final draft contract, the PPP Committee must decide on the granting of consent for the text of the draft contract.
+In the last and fifth phase, the implementation and evaluation of the contract, the contracting authority, supported by the PPP commission, carries out an evaluation of the entire PPP project, from project identification to implementation, in order to assess the timeliness and effectiveness of the project.
+
+
+Source: Author
+
+Project risk assessment
+Risk identification
+For the project consisting of the development, investment and management of botanical gardens for the National Herbarium & Botanic Gardens (NHBG), the risks can be classified into two main categories:
+General risks or country risks which are linked to the political, economic and legal environment of the country and over which the two partners have no control; and
+Project-specific risks over which the public and the private partners may have some control.
+The table below summarizes the main risks of the project.
+
+Risk matrix and Risk allocation
+The Risk Matrix includes the key risks that may impact the project as well as the adopted approach of managing and mitigating these risks in similar projects undertaken in the region and internationally.
+This risk matrix is not intended to be a complete or exhaustive matrix of legal risks but is designed to pre-treat the commercial and contractual relations proposed to be put in place between the NHBG and the private partner. It highlights any specific concerns, obstacles or constraints impacting the project as well as the proposed risk allocation based on appropriate benchmarks for the standard allocation of these risks in similar regional or international PPP projects.
+The risk matrix of the project including the different risks allocation, mitigation and coverage is presented in the following table.
+
+
+
+Risk quantification
+Introduction
+Risk is quantified by measuring the potential to incur (additional) costs above baseline costs. The quantification of risks is not usual for traditional public sector procurement (Public Sector Comparator) which tend to suffer from an optimism bias, i.e., a tendency to budget for the best possible outcome (often the least costly) rather than the most probable. This leads to frequent cost (and time) overruns.
+Moreover, the risks associated with the project do not disappear because the private sector provides the service under a PPP contract. However, the quantification (and therefore provision) of these risks is often lower for the private sector, as these risks tend to be better managed (than by the public sector), mainly due to a better distribution of risks and economies of scale generated by the PPP and expertise in risk management.
+Methodology
+The first step is to determine the cost to the Public Sector of each identified risk, depending on whether the Project is carried out under a public contract or a PPP. This cost is calculated as follows:
+
+Where:
+= Probability of occurrence of risk n
+= Reference value or base cost defined for risk n – established for each risk according to its nature
+= Share of the risk borne by the Public Sector or the cost of the impact – varies according to the option considered (public contract or PPP).
+The risks are classified according to the stages of the project in which they occur, namely:
+Planning
+Procurement
+Design
+Construction
+Operating period which includes both operation and maintenance of the infrastructure
+Renewal and transfer (handover) period that takes into account life cycle expenses and handover of infrastructure at contract expiration.
+Risks at each of the above project stages will be subdivided into the following sub-categories:
+Technical – covering aspects such as asset efficiency, durability and achievement of the specifications.
+Legal - covering aspects related to changes in laws or compliance with existing laws and regulations.
+Commercial - covering aspects related to input prices, general availability of inputs as well as insurability of risks.
+Financial/monetary – covering aspects related to the impact of changes in key financial variables such as inflation, interest rate and exchange rate, public financing shortfall, private financing shortfall, debt default, remuneration, etc.
+Political/social - covering aspects related to social unrest, overt civil unrest, industrial strikes, terrorism, etc.
+Environmental - covering aspects related to the environmental issues that could be faced by the project.
+The Benchmark or Base Cost for each risk belonging to the categories described above should be identified. Base costs are presented in real terms.
+As for the probability of occurrence and the rank, it is the probability that a risk occurs and is described as a percentage and a descriptive rank. The following table gives an example of how the probability description is associated with certain probability bands.
+Source: Author
+The financial impact of a risk (share of the risk borne by the Public Sector) is assessed according to three scenarios:
+Maximum impact scenario, reflecting a major cost impact because of the risk occurrence.
+Medium impact scenario, reflecting a moderate cost impact as a result of the risk occurrence.
+Minimal impact scenario, reflecting minimal cost impact because of the risk occurrence.
+Each of the risk impact scenarios is expressed as a percentage and reflects the expected change in cost basis due to the occurrence of the risk.
+The detailed PPP and PSC risk registers are presented in the Appendix 1 of this report.
+
+Financial assessment of the project
+Financial and Economic Model Assumptions
+Capital Expenditures
+Zomba Botanical Gardens (ZA) - CAPEX
+The overall construction cost of the Zomba Botanical gardens is estimated at MK 4 441 627 800.53, which is equivalent to US$ 4 055 096.05 in MK 1 095.32, 2023 exchange rates. The breakdown of this feasibility budget estimate is presented in the table below.
+Lilongwe Botanical Gardens (LL) - CAPEX
+The overall construction cost of the Lilongwe Botanical Gardens is estimated at MK 4 806 658 450.19, which is equivalent to US$ 4 388 359.98 in MK 1 095.32, 2023 exchange rates. The breakdown of this feasibility budget estimate is presented in the table below.
+Mzuzu Botanical Gardens (MZ) - CAPEX
+The overall construction cost of the Mzuzu Botanical Gardens is estimated at MK 7 206 489 327.14, which is equivalent to US$ 6 579 346.06 in MK 1 095.32, 2023 exchange rates. The breakdown of this feasibility budget estimate is presented in the table below.
+
+
+Operating Costs
+Hospitality Services Division - Cost of Goods Sold:
+These are expenses which are directly incurred in order to provide the accommodation, food and drinks to guests, and they include toiletries, towels, cleaning materials, food materials, drinks and beverages and direct labour costs. These costs are estimated as a percentage of revenues based on industry experience of two local hotels as follows:
+
+The average ratio of Cost of Goods Sold as a percentage of Total Revenues for the two hotel groups has been as follows over the past three years:
+Sunbird: 30.8%
+Ryall's: 50.5%
+Cost of Goods Sold have thus been estimated at 33% of total Hospitality Services Division Revenues.
+Hospitality Services Division - Sales and Administration Expenses:
+These include salaries and wages for executive and administrative staff, security costs, energy costs, water and laundry expenses, repairs and maintenance, insurance, motor vehicle expenses, marketing and advertising costs, computer, internet and telephone costs, writing materials for the conference facility, directors' fees and expenses, depreciation and amortisation, city rates and ground rents.
+The costs have been estimated as a percentage of revenues based on industry experience of two local hotel groups over the past two years as follows:
+
+Sales and Administration Expenses as a percentage of Total Revenues for the two hotel groups have averaged as follows over the past two years:
+Sunbird: 48.9%
+Ryall's: 67.9%
+Sales and Admin Costs have been estimated at 51% of total Hospitality Services Division Revenues. Hotels maintained high fixed costs in 2020 despite a significant drop in business operations due to Covid 19 hence financial year 2020 has not been included in modelling Sales and Administration Costs for the Project as the results of that year are outliers.
+Hospitality Services Division - Licences and Permits Costs:
+The Investment Project will need to obtain operating licences and permits from the City Council (Zomba, Lilongwe and Mzuzu) to conduct the various business operations involving lodge, restaurant, bar and events hosting in the City. All three City Councils have advised that three types of licences and permits will be required: business licence, food licence and liquor permit. The aggregate cost of these licences and permits are as follows:
+the Zomba Botanical Gardens (ZA): MK 1 685 000 per annum.
+the Lilongwe Botanical Gardens (LL): MK 580 000 per annum.
+the Mzuzu Botanical Gardens (MZ): MK 1 325 000 per annum.
+Property Division, Events Facility & Visitor Centre - Operating Expenses:
+Operating expenses for these facilities relate to costs associated with the upkeep of the office buildings, infrastructure including fittings in good repair and condition. The expenses also include staff costs working in these divisions. Consequently, these expenses have been estimated as follows:
+Management and staff costs: 
+These have been estimated at 8.5% of revenues generated from renting of office space, use of the events facility and gate entry fees paid at the visitor centre. These costs will comprise salaries and wages, pension costs, medical and life cover and allowances for staff working in these business divisions.
+Property Maintenance and Repairs: 
+Maintenance & Repairs have been estimated at US$ 2.2 per square metre of built environment (office space, visitor centre and events facility) per annum. The property maintenance and repairs costs for the three gardens location is summarised in the following table:
+
+These estimates are based on costs incurred in maintaining buildings in the upper market segment in the country and other regional markets.
+Landscaping Expenses: 
+These are costs that will be incurred in keeping the grounds in good condition by regularly cutting grass, trimming bushes, maintaining pathways and pruning broken tree branches. These expenses have been estimated at MK 250 000 per hectare per annum based on good forestry management guidelines and literature. The landscaping costs for the three gardens location is summarized in the following table:
+
+Cleaning, Toiletries and Waste Disposal: 
+Cleaning services will be outsourced to a professional firm to be recommended by the property management company. Currently high-end buildings in Malawi like Chayamba building, Kang'ombe Building, Reserve Bank, Standard Bank Centre have all outsourced these services. One of the reliable firms providing these services is Transerve Logistics and they charge MK 175.00 per square metre of the gross floor area of the building being cleaned per month. The cleaning costs for the three gardens location is summarised in the following table:
+
+Insurance Costs: 
+The properties will be comprehensively insured against all possible risks like fire, storm damage, riot damage, earthquakes and forced breakages and other risks. Established general insurance firms like Nico General, United General Insurance and General Alliance premium rates for comprehensive cover average 0.25% of property value/ investment costs. The financial forecasts have assumed this premium rate in calculating insurance costs for the assets during the forecast period.
+Depreciation:
+Fixed assets are depreciated at the following rates using the straight-line method during their expected useful economic life:
+
+Consolidated Operating Expenditure Forecasts:
+Zomba Botanical Gardens (ZA) – OPEX
+The following table summarises the operating expenditure for the Zomba Botanical Gardens (ZA):
+
+Lilongwe Botanical Gardens (LL) - OPEX
+The following table summarises the operating expenditure for the Lilongwe Botanical Gardens (LL)
+
+Mzuzu Botanical Gardens (MZ) - OPEX
+The following table summarises the operating expenditure for the Mzuzu Botanical Gardens (MZ):
+
+Revenue assumptions
+Zomba Botanical Gardens (ZA): 
+Business Division Products, Services and Revenue Lines:
+Zomba Botanical Gardens is expected to have 4 business units which will generate revenues for the investor as follows:
+Property Division: 
+This Division will offer office space in form of office buildings constructed for the Head Office, Herbarium and Laboratory. The total lettable space to be utilized by National Herbarium & Botanical Gardens (who will be the only customer for the Division) is 699.47 m². The office buildings will have 18 car parking slots which will be made available to National Herbarium & Botanical Gardens staff at no cost.
+Hospitality Services Division:
+Accommodation: this will be provided through the 16 guest rooms to be built. The construction design is that scenic views fronting Mulunguzi River.
+Food & Beverages: this will entail the sales of meals, alcoholic and non-alcoholic beverages. This will be provided through the 68-seat capacity restaurant, bar and coffee shop. Target customers will include resident guests, walk in visitors and conference/ meeting attendees.
+Conferences & Meetings: the Hospitality Division will also have a 100 -seater conference/ meeting room which will be let out to organizations for meetings, conferences, workshops and training courses.
+Events and Entertainment Services Division:
+This Division will comprise the events garden with a performance stage, ablutions/sanitary facilities, storage facilities and photo shoot area. The target market for this will include private weddings, music performances, school events/dramas, advertising and video shoots.
+Educational and Day Tourism Services Division:
+This Division will target and manage customer revenue streams from people who want to visit and know more about the activities of National Herbarium and Botanical Gardens. These will include largely students from secondary schools and universities. This Division will also target individuals who simply want to chill out in a relaxing environment to either chat with friends, read a book or simply meditate. The facilities for this Division will include the Visitor Centre including the Exhibition Area, Public Gardens, Education Centre and Ticketing Office.
+Business Volume Assumptions:
+The Malawi Economy is still recovering from Covid-19 disruptions, climatic shocks (cyclones Idai, Anna and Freddy) and supply chain and global inflation shocks caused by the Russia/ Ukraine war. Economic growth remains below the target rate of 6% which is required to significantly improve people's living standards and reduce poverty. Given that the products and services to be offered by the investment in botanical gardens are not defensive in nature (compared to food, residential housing, medical services, schooling); business volumes have been forecasted on a conservative basis as follows:
+Property Division: 
+As the entire office space offered by the Division will be taken up by National Herbarium and Botanical Gardens, occupancy rates for the office buildings have been assumed at 100% from year 1 of operations as follows.
+
+Hospitality Services Division:
+The primary target market for this Division will include organizations and individuals from Zomba City, Blantyre City and others who would like to visit for leisure, hold meetings and conferences. A market study of competitor offerings for this Division showed that some services to be offered are also being offered by various existing players like the 3-Star 40 roomed mountain resort Sunbird Ku Chawe Inn (accommodation, food and beverages, conference/ meeting rooms, bar, swimming pool, hiking, fishing), Wadonda Suites, etc.
+As the Division's market positioning is targeting mid to top end market segments, competitor bench marking in terms of business volumes has been based on what similar facilities are currently achieving and estimated growth rate going forward. Sunbird Tourism is currently the premier hospitality operator in Malawi and its accommodation occupancy rate was 36% in 2021 and 48% in 2022. Pre-Covid, Sunbird Tourism was able to achieve occupancy rates of up to 60% (2018). Marriot Ryall's Hotel is currently (2023) achieving occupancy rates of 51% from 42% in 2022. Prior to Covid 19, Ryall's Hotel was able to achieve occupancy rates of 85%.
+ (I) Accommodation:
+The Botanical Gardens Lodge Facilities accommodation occupancy rates have therefore been conservatively forecasted as follows:			
+
+(II) Food and Beverages:
+Food and beverage volume and revenue forecasts have been estimated as a proportion of accommodation revenue based on industry experience of two local established hotel operators and one regional hotel operator. The local hotel operators are Sunbird Tourism who operates 9 resort and business hotels in Malawi and Marriot Ryall's Hotel who operate a business hotel in Malawi. The regional hotel operator is South Africa based City Lodge Group who operates hotels in budget, mid-market and up-market business segments.
+The three hotel groups' revenue mix has been as follows over the past three years:
+
+The proportion of Food and Beverage Revenues (F&B) as a percentage of Accommodation Revenues (AR) for the three hotel groups has averaged as follows over the past three years:
+
+Food and Beverage revenues have therefore been forecasted at 90% of Accommodation Revenues.
+It should be well noted that these rates are applicable to all three botanical gardens (ZA, LL and MZ).
+(III) Conference Facility:
+The 50 Seat Conference Facility is projected to achieve occupancy and utilization rates as per below (Ku Chawe conference rooms utilization rates currently average 55%):
+
+Events and Entertainment Division:
+The event and entertainment facility is expected to be of open garden design with a performing stage and ablution/sanitary facilities. 
+The facility will be available on weekends so as not to disturb the normal work operations of the National Herbarium & Botanical Gardens during the week. 
+Events and entertainment halls and gardens in Zomba currently consist of indoor halls and private gardens with basic facilities. The Project will take advantage of this market gap to offer a unique experience to patrons.
+The number of patrons at the events and entertainment facility will be limited to a maximum of 1,000 people to avoid facility overuse and rapid ware and tare. Utilization of the Facility has been forecasted as follows:
+
+Educational and Day Tourism Services Division:
+This division will cater for day visitors from academic institutions/schools, private individuals who want to learn about various plants and also has a relaxing time in the gardens of the Botanical Gardens. These visitors will pay gate entrance fees which will essentially be the revenue source for the Division. A total of 18,396 people visited Zomba Botanical Gardens in 2022 and visitor numbers have increased by an average 4.3% per annum over the past five years with no marketing efforts whatsoever as detailed below:
+CAGR: 4.3%
+Consequently, visitor numbers for the Division at Zomba Botanical Gardens have been projected as follows:
+
+Pricing Assumptions:
+Property Division - Office Space:
+Up market office space in medium to high quality office buildings in Zomba is currently (September 2023) attracting rental charges ranging between MK7,500 and MK12,500 per square metre per month as advised by JED Properties and Knight Frank.
+The Head Office and Regional Office buildings including the Laboratory and Herbarium are therefore forecasted to charge rental to the National Herbarium and Botanical Gardens at MK10,500 per square metre per month.
+Hospitality Services Division - Room and Conference Facility:
+Room rates for up market hospitality establishments in Zomba range between MK94,000 per person per standard room for mid-market lodges (Wadonda Suites) to MK 143,000 for top end resorts (Ku Chawe Inn). Budget hotels like Annie's Lodge charge between MK 40,000-00 and MK55,000-00 per person per room. Zomba Botanical Gardens Lodge will be positioned as a mid to up market lodge and room rates will be pegged at MK 135 000 per person per room.
+The 100 Seat Conference Facility is expected to charge a fee of MK 35 000 per conference participant per day inclusive of meals and tea/coffee. Ku Chawe Inn currently charges MK37 000 per participant per day inclusive of meal and snack. Ku Chawe also separately charges MK45,000-00 per day for a projector. Zomba Botanical Gardens Lodge will offer the projector as a complimentary service to attract customers. Other hotel establishments like Wadonda Suites, Annie's Lodge, etc charge a flat fee of MK140,000-00 for the conference facility with participants buying food separately.
+Events and Entertainment Division:
+The use of the Events and Entertainment Facility will attract a flat fee of MK 750 000 per day or night. Events and entertainment halls and gardens in Zomba currently charge between MK100,000 per day/night (secondary school halls, private gardens) and MK150,000 (Great Hall, University of Malawi). These are basically in door facilities with limited scope for customization to meet client needs. The Botanical Gardens Events Facility will be of unique design to suit various customer requirements.
+Educational and Tourist Visitors:
+Day visitors will pay an Entrance Fee at the gate. This has been pegged at MK 1 000 per visitor. Currently National Herbarium and Botanical Gardens charge MK500-00 per visitor per day. The entrance fee will entitle the visitor to visit the education and exhibition facilities, spend time in the gardens and even buy a meal or snack at the restaurant or coffee shop.
+Summary Comparative Competitor Pricing for Various Services for Zomba Botanical Gardens
+
+Consolidated Revenue Projections - Zomba Botanical Gardens:
+
+The Lilongwe Botanical Gardens (LL):
+Business Division Products, Services and Revenue Lines:
+Lilongwe Botanical Gardens is expected to have 4 business units which will generate revenues for the investor as follows:
+Property Division: 
+The Property Division will have two departments comprising of the regional offices and shopping mall sub-lease development as follows:
+(I) Commercial Property: this Division will offer office space in form of office buildings constructed for the Regional Office, Herbarium and Laboratory. The total lettable space to be utilized by National Herbarium & Botanical Gardens (who will be the only customer for the Division) is 585 square metres. The office buildings will have 30 car parking slots which will be made available to National Herbarium & Botanical Gardens staff at no cost.
+(II) Land Sub-Lease: this Unit will be responsible for the sub-lease of 5.7 hectares of land to the property developer who will build the shopping mall comprising shops, service station, entertainment facilities and amusement facilities. Ministry of Lands has confirmed that Malawi Government allows land owners to sub-lease land to investors for investment purposes and the sub-lease is then duly registered by the Ministry.
+Hospitality Services Division:
+Accommodation: this will be provided through the 20 guest rooms to be built. The construction design includes scenic views of the ornamental lake.
+Food & Beverages: this will entail the sales of meals, alcoholic and non-alcoholic beverages. This will be provided through the 68-seat capacity restaurant, bar and coffee shop. Target customers will include resident guests, walk in visitors and conference/ meeting attendees.
+Conferences & Meetings: the Hospitality Division will also have a 100 -seater conference/ meeting room which will be let out to organizations for meetings, conferences, workshops and training courses.
+
+Events and Entertainment Services Division:
+This Division will comprise the events garden with a performance stage, ablutions/sanitary facilities, storage facilities and photo shoot area. The target market for this will include private weddings, music performances, school events/dramas, advertising and video shoots.
+Educational and Day Tourism Services Division:
+This Division will target and manage customer revenue streams from people who want to visit and know more about the activities of National Herbarium and Botanical Gardens. These will include largely students from secondary schools and universities. This Division will also target individuals who simply want to chill out in a relaxing environment to either chat with friends, read a book or simply meditate. The facilities for this Division will include the Visitor Centre including the Exhibition Area, Public Gardens, Education Centre and Ticketing Office.
+Business Volume Assumptions:
+Business volumes have been forecasted on a conservative basis as follows:
+Property Division: 
+(I) Commercial Property: As the entire office space offered by the Division will be taken up by National Herbarium and Botanical Gardens, occupancy rates for the office buildings have been assumed at 100% from year 1 of operations as follows:
+
+(II) Land Sub-Lease: the property developer is expected to sub-lease the entire 5.7 hectares earmarked for the shopping mall.
+Hospitality Services Division:
+The primary target market for this Division will include organizations and individuals from Lilongwe City and other areas including international visitors who would like to visit for leisure, hold meetings and conferences. A market study of competitor offerings for this Division showed that some services to be offered are also being offered by various existing players like Ufulu Gardens, Capital Hotel, Umodzi Park, Eden Estates and Lodge and Kumbali Country Lodge.
+As the Division's market positioning is targeting mid to top end market segments, competitor bench marking in terms of business volumes has been based on what similar facilities are currently achieving and estimated growth rate going forward. Sunbird Tourism (whose hotels in Lilongwe include Capital Hotel & Lilongwe Hotel) is currently the premier hospitality operator in Malawi and its accommodation occupancy rate was'36% in 2021 and 48% in 2022. Pre-Covid, Sunbird Tourism was able to achieve occupancy rates of up to 60% (2018). Ufulu Gardens, though a much a larger facility (77 rooms), compared to the proposed Lilongwe Botanical Gardens Lodge, is currently (2023) achieving an average occupancy rate of 55% per month.
+ (I) Accommodation:
+The Botanical Gardens Lodge Facilities accommodation occupancy rates have therefore been conservatively forecasted as follows:			
+
+(III) Conference Facility:
+The 100 Seat Conference Facility is projected to achieve occupancy and utilization rates as per below (Conference facilities utilization rates in Lilongwe remain high with venues sometimes booked weeks in advance). 
+The high demand for conference facilities in Lilongwe is due to the proximity of Government ministry headquarters, presence of international non-governmental organizations, embassies and donor agencies and multi-lateral institutions (United Nations, World Bank, African Development Bank, International Monetary Fund, European Union).
+
+Events and Entertainment Division:
+The events and entertainment facility are expected to be of open garden design with a performing stage and ablution/sanitary facilities. The Facility will compete with both indoor and outdoor events hosting facilities in Lilongwe at Sanctuary Lodge, Umodzi Park, Capital Hotel, Eden Estate & Lodge and several high-end garden event hosting venues including Kulemeka Gardens in Area 10, Peak Gardens in Area 12 and Rock Gardens in Area 43. The Facility will be available on weekends so as not to disturb the normal work operations of the National Herbarium & Botanical Gardens during the week.
+The number of patrons at the events and entertainment facility will be limited to a maximum of 1,000 people to avoid facility overuse and rapid ware and tare. Utilization of the Facility has been forecasted as follows:
+
+Educational and Day Tourism Services Division:
+This division will cater for day visitors from academic institutions/schools, private individuals who want to learn about various plants and also has a relaxing time in the gardens of the Botanical Gardens. These visitors will pay gate entrance fees which will essentially be the revenue source for the Division. A total of 84,764 people visited Lilongwe Botanical Gardens in 2022 and the number of visitors has increased by an average 8.7% per annum as detailed below (without marketing efforts whatsoever):
+CAGR: 8.7%
+Consequently, visitor numbers for the Division at Lilongwe Botanical Gardens have been projected as follows:
+
+Pricing Assumptions:
+Property Division - Office Space:
+(I) Up market office space in medium to high quality office buildings in Lilongwe is currently (September 2023) attracting rental charges ranging between MK10,000 and MK18,500 per square metre per month as advised by Eris Properties, Mpico and Knight Frank. The Regional Office buildings including the Laboratory and Herbarium are therefore forecasted to charge rental to the National Herbarium and Botanical Gardens at MK 11 500 per square metre per month.
+(II) The land that will be sub-leased to the property developer for the development of the shopping mall will be sub-leased at MK 2 750 000 per hectare per annum. This represents a 75% discount of the current prevailing vacant land average sales prices in Lilongwe in September 2023 and amortised over 25 years. Ministry of Lands has confirmed that the Lessor and the Lessee are at liberty to agree the sub-lease price.
+Hospitality Services Division - Room and Conference Facility:
+Room rates for up market hospitality establishments in Lilongwe range between MK120,000 per person per night for a standard room for mid-market hotels (Ufulu Gardens) to MK180,000 per person per night for top end hotels (President Walmont, Capital Hotel). Budget hotels (like Eden Estate & Country Lodge, Country Lodge, Mafumu, etc) charge between MK65,000-00 and MK80,000-00 per person per night. Lilongwe Botanical Gardens Lodge will be positioned as a mid to up market lodge and room rates will be pegged at MK 135 000 per person per room.
+The 100 Seat Conference Facility is expected to charge a fee of MK 35 000 per conference participant per day inclusive of meals and tea/coffee. Ufulu Gardens currently charges MK35,000-00; Capital Hotel MK36,000-00 and Umodzi Park BICC MK48,000 per participant per day inclusive of meals and snacks. BICC also separately charges for the Projector and Sound System at MK170,000 per day. Lilongwe Botanical Gardens Lodge will offer the projector as a complimentary service to attract customers.
+Events and Entertainment Division:
+The use of the Events and Entertainment Facility will attract a flat fee of MK 1 250 000 per day or night. Up market events and entertainment halls and gardens in Lilongwe currently charge between MK950,000 per day/night (no chairs, tables, sound system, etc.) and MK1,600,000 (with extras like chairs, tables, etc.). The Lilongwe Botanical Gardens will be custom built to cater to various customer events with necessary supporting equipment and services like chairs, sound system, tables, marquee/tent as and when required and will therefore charge a slightly higher fee than the current events facilities who offer essentially a venue only.
+Educational and Tourist Visitors:
+Day visitors will pay an Entrance Fee at the gate. This has been pegged at MK 1 000 per visitor. Currently National Herbarium and Botanical Gardens charge MK500-00 per visitor per day. The entrance fee will entitle the visitor to visit the education and exhibition facilities, spend time in the gardens and even buy a meal or snack at the restaurant or coffee shop.
+Summary Comparative Competitor Pricing for Various Services for Lilongwe Botanical Gardens
+
+Consolidated Revenue Projections - Lilongwe Botanical Gardens: 
+
+the Mzuzu Botanical Gardens (MZ): 
+Business Division Products, Services and Revenue Lines:
+Mzuzu Botanical Gardens is expected to have business units which will generate revenues for the investor as follows:
+Property Division: 
+The Property Division will comprise the regional offices as follows:
+The Division will offer office space in form of office buildings constructed for the Regional Office, Herbarium and Laboratory. The total lettable space to be utilized by National Herbarium & Botanical Gardens (who will be the only customer for the Division) is 585.95 square metres. The office buildings will have 22 car parking slots which will be made available to National Herbarium & Botanical Gardens staff at no cost.
+Hospitality Services Division:
+Accommodation: this will be provided through the 12 guest rooms to be built. The construction design is that 6 semi-detached units will be built within the Game Ranch to enable customers enjoy game viewing as well.
+Food & Beverages: this will entail the sales of meals, alcoholic and non-alcoholic beverages. This will be provided through the 68-seat capacity restaurant, bar and coffee shop. Target customers will include resident guests, walk in visitors and conference/ meeting attendees.
+Conferences & Meetings: the Hospitality Division will also have a 100 -seater conference/ meeting room which will be let out to organizations for meetings, conferences, workshops and training courses.
+
+Events and Entertainment Services Division:
+This Division will comprise the events garden with a performance stage, ablutions/sanitary facilities, storage facilities and photo shoot area. The target market for this will include private weddings, music performances, school events/dramas, advertising and video shoots.
+Educational and Day Tourism Services Division:
+This Division will target and manage customer revenue streams from people who want to visit and know more about the activities of National Herbarium and Botanical Gardens. These will include students from primary and secondary schools and colleges, private citizens and international tourists. The facilities for this Division will include the Visitor Centre including the Education & Exhibition Area, the Coffee Shop, Ticketing Office and the Game Ranch.
+Business Volume Assumptions:
+Business volumes have been forecasted on a conservative basis as follows:
+Property Division: 
+(I) Commercial Property: As the entire office space offered by the Division will be taken up by National Herbarium and Botanical Gardens, occupancy rates for the office buildings have been assumed at 100% from year 1 of operations as follows:
+
+Hospitality Services Division:
+The primary target market for this Division will include organizations and individuals from Mzuzu City, the travelling public and international visitors who would like to visit for leisure, hold meetings and conferences. A market study of competitor offerings for this Division showed that some services to be offered are also being offered by various existing players like Mzuzu Hotel, Grand Palace Hotel and Ilala Crest Lodge. Game viewing in the Northern Region is currently available at Vwaza Marsh which is 126 kilometres away from Mzuzu and Nyika National Park which is 165 kilometres away from Mzuzu.
+As the Division's market positioning is targeting mid to top end market segments, competitor bench marking in terms of business volumes has been based on what similar facilities are currently achieving and estimated growth rate going forward. Sunbird Tourism (whose hotel in Mzuzu is Sunbird Mzuzu Hotel) is currently the premier hospitality operator in Malawi and its accommodation occupancy rate was 36% in 2021 and 48% in 2022. Pre-Covid, Sunbird Tourism was able to achieve occupancy rates of above 60% (2018).
+ (I) Accommodation:
+The Botanical Gardens Lodge Facilities accommodation occupancy rates have therefore been conservatively forecasted as follows:			
+
+(III) Conference Facility:
+Conference facilities utilization rates in Mzuzu are at relatively medium levels as Mzuzu City does not have a high concentration of large corporates, international non-governmental organizations, multilateral and bilateral organizations and donor agencies. The 100 Seat Conference Facility is projected to achieve occupancy and utilization rates as per below.
+
+Educational and Day Tourism Services Division:
+This division will cater for day visitors from academic institutions/schools, private individuals who want to learn about various plants and also has a relaxing time in the gardens of the Botanical Gardens and also undertake game viewing in the Game Ranch. These visitors will pay gate entrance fees which will essentially be the revenue source for the Division. A total of 3,796 people visited Mzuzu Botanical Gardens in 2022 and the number of visitors has increased by an average 3.4% per annum as detailed below (without marketing efforts whatsoever):
+CAGR: 3.4%
+The establishment of a Game Ranch and opening of modern hospitality facilities at the Mzuzu Botanical Gardens is expected to significantly improve demand for products and services offered at the Gardens hence result in a significant increase in visitor numbers. Consequently, day visitor numbers, including those wanting to undertake game viewing, for the Division in Mzuzu Botanical Gardens have been projected as follows:
+
+Mzuzu City 2023 population is estimated at 273,500 people and is increasing by 5.4% annually. Of the total number of day visitors, it's estimated that 20% of them will undertake game viewing.
+Pricing Assumptions:
+Property Division - Office Space:
+Up market office space in medium to high quality office buildings in Mzuzu is currently (September 2023) attracting rental charges ranging between MK5,000 and MK7,500 per square metre per month as advised by Wezzie Estate Agency and Amoshope Estate Agents. The Regional Office buildings including the Laboratory and Herbarium are therefore forecasted to charge rental to the National Herbarium and Botanical Gardens at MK 6 500 per square metre per month.
+Hospitality Services Division - Room and Conference Facility:
+Room rates for up market hospitality establishments in Lilongwe range between MK100,000 per person per night for a standard room for mid-market hotels (Grand Palace Hotel) to MK145,000 per person per night for top end hotels (Sunbird Mzuzu Hotel Hotel). Budget hotels (Ilala Crest Lodge, Mzuzu Lodge) charge between MK40,000-00 and MK65,000-00 per person per night. Mzuzu Botanical Gardens Lodge will be positioned as a mid to up market lodge and room rates will be pegged at MK 135 000 per person per room per night.
+Educational and Tourist Visitors:
+Day visitors will pay an Entrance Fee at the gate. This has been pegged at MK 1 000 per visitor per day for those not visiting the Game Ranch and MK8,500 per visitor per day for those that will undertake one trip of game viewing as well. The fee will also entitle the visitor to visit the education and exhibition facilities, spend time in the gardens and even buy a meal or snack at the restaurant or coffee shop. The comparative park entrance fee at Nyika National Park is presently US$10-00 per person.
+Summary Comparative Competitor Pricing for Various Services for Mzuzu Botanical Gardens
+
+Consolidated Revenue Projections - Mzuzu Botanical Gardens: 
+
+Macro-Economic Indicators and Forecasts
+Inflation Rates, Interest Rates, Bond/Treasury Note Yields and Cash Flow Discount Factor
+Reserve Bank of Malawi monetary policy is aimed at achieving price stability (low and stable inflation) in the economy by controlling growth in money supply through interest rates and reserve money. A major factor driving money supply growth hence inflation is Government deficit financing. Malawi's current (October 2023) Inflation Rate (as measured by the Consumer Price Index – CPI) is 26.9%.
+In the long-term, the Malawi Inflation Rate is projected to trend around 12.40% in 2024, according to Trading Economics.
+Malawi's annual Inflation Rates (CPI) and Government Deficit Financing and 10-Year Treasury Note Yield have been as follows over the past 10 years.
+Source: National Statistics Office Bulletins; Reserve Bank of Malawi Publications, Malawi Government Annual Economic Reports
+Consequent to the above, the following variables have been used in the financial forecasts where applicable as they currently prevail in the Economy:
+Retained annual inflation rate for the construction period: 25%.
+Retained annual inflation rate for the operation period: 20%.
+OPEX and revenue streams typically experience a lower rate of inflation compared to CAPEX. As for the investment costs, they are often more volatile and subject to larger fluctuations due to factors like changes in raw material costs. Moreover, we have suggested that the inflation rate in Malawi should experience improvements on the long term compared to the current situation. We should mention that these inflation rates have been used in crafting the different annual cash flow statements across the financial model to ensure that financial forecasts remain reflective of expected economic conditions.
+10-Year Bond/Treasury Note Yield:
+Malawi Government 10-Year Treasury Note Yield has been used as the Discount Factor for calculating present values of future cash flows. The 10-Year Treasury Note was introduced on the market in September 2019 and its yield has averaged 24.86% per annum over the past 5 years. This average yield has also been used as the Interest Rate on all Local Currency Long Term Debt that the Project will raise as part of its Capital Structure.
+Cash Flow Discount Factor (WACC): The WACC is estimated at 27.2%. This is derived from the average long term equity market return of 30.7% per annum and the average long term bond yield of 24.8% per annum above.
+Private Interest Rate: 22.70% per annum.
+This is the Interest Rate based on which commercial banks price their short-term credit facilities. Normally a risk premium of up to 11.00% is added to determine the final price based on the risk profile of the customer. The Project has assumed a risk premium of 3.50% on all its Local Currency Short Term Debts.
+Public Interest Rate: 24.8% per annum, which is the current average long term bond yield. Although the present long term bond yield is 33% per annum, with debt restructuring measures and austerity measures being implemented by Government under a new IMF Extended Credit Facility Program, the long-term bond yield should trend towards the average long-term yield in the long run.
+Exchange Rates
+The project has assumed a reference exchange rate of 1095.32 MK/ $ (July 2023) for the calculation of all the costs. We should mention that the value of the MKW has dropped in November 2023 to reach 1 700 MK/ $.
+The Malawi Kwacha has traditionally depreciated against major convertible currencies, particularly the US Dollar, due to the persistent balance of payments deficits that the country runs.
+Over the past 10 years, the Malawi Kwacha has depreciated as follows against the US Dollar.
+Source: Reserve Bank of Malawi
+The Project has consequently assumed a long-term annual depreciation rate of 10.2% in the value of the Kwacha in converting all foreign currency capital and operating expenditure items; and all foreign currency denominated assets and liabilities that the Project may hold or assume.
+Economic Growth
+The growth of the economy which signals improved and increased economic activities hence increased demand for services, including rental space for businesses, has been based on estimated Gross Domestic Product (GDP) growth rate. Malawi's GDP (currently at US$ 12.5 billion) growth rate has been extrapolated based on the average 10-year real GDP growth rate as shown in the following table.
+Source: Reserve Bank of Malawi, Financial and Economic Reviews; Malawi Government, Annual Economic Reports
+Based on the above, Malawi's economy is projected to grow by an average 3.6% per annum during the project forecast period.
+Population Growth
+Population growth rate, the productivity of that population, the age and gender mix of the population are also key drivers of economic activity in any country. The Malawi population has grown as follows over the past 10 years.
+Source: National Statistical Office, World Bank
+The Project has assumed an average annual population growth rate of 2.81% during the forecast period.
+The three cities in which the three Botanical Gardens are located have the following estimated populations as of September 2023 (Source: National Statistical Office & Various Publications):
+Zomba City:	 101,140 
+Lilongwe City:	 1,276,000 
+Mzuzu City:	 273,500.
+Shortlisted PPP options
+Based on the client’s recommendations, the Needs and Options Analysis report, the qualitative comparison, the outcomes of the benchmark study and project specific features, we recommend the DBFOM PPP delivery model for the implementation the Botanical Gardens:
+The Design-Build-Finance-Operate-Maintain (DBFOM) model is a comprehensive form of Public-Private Partnership (PPP) where a private entity or consortium is responsible for the entire lifecycle of a project. This approach integrates five key phases: design, construction, financing, operation, and maintenance. In DBFOM, the private partner designs and constructs the project, arranges the necessary financing, and then operates and maintains the facility for a predetermined period. This model is often used for large infrastructure projects, as it leverages the efficiency, expertise, and financial capabilities of the private sector while sharing risks between the public and private entities. At the end of the contract term, the project is typically handed back to the public sector. Here's a breakdown of the DBFOM model components:
+Private sector makes capital investments in infrastructure
+Ownership of assets remains with the public sector
+The private sector operator is responsible for the operation and management of specific tasks or assets
+Private Sector Revenue: Usually payments based on user fees or third-party revenues
+Optimal risk transfer, private sector financing and incentive system
+Life cycle approach to infrastructure
+Predefinition of service quality requirements and target specifications
+The public sector retains much control over the quality of service and price. Assets remain under the control of the public sector.
+
+The advantages and disadvantages of a DBFOM contract are summarises in the following table.
+
+Flow of Funds:
+An SPV is typically created by the private partner for the sole purpose of managing the project. It's a separate legal entity that isolates financial risk.
+The private partner (or consortium of private partners) invests equity into the SPV and secures debt financing (like loans or bonds) on behalf of the SPV for project financing.
+Equity Investment: The private partner contributes equity capital to the SPV.
+Debt Financing: The SPV receives loans or issues bonds to raise the majority of the capital needed for the project.
+Public Contributions: In some cases, the public partner may provide direct funding, subsidies, or grants to the SPV to support project development.
+The SPV uses these funds for project-related expenses: design, construction, operation, and maintenance.
+Payments are made to contractors, suppliers, and service providers involved in the project.
+Once operational, the project generates revenue through user fees.
+The SPV is responsible for managing these operations and collecting revenues.
+Revenue Distribution: The SPV uses the revenue for various purposes:
+Debt Service: Repaying the interest and principal on loans.
+Operating and Maintenance Costs: Covering the costs of running and maintaining the project.
+Return on Equity: Distributing profits to the private partners/shareholders.
+At the end of the contract term, the SPV hands over the project to the public partner. The conditions for this transfer are defined in the contract.
+Results of the financial modelling of the different project delivery models
+The financial modelling of a PPP project aims to test the bankability of the project, i.e., its ability to attract private financing with its two components: debt and equity. These financing resources could also be complemented by a possible contribution of the State in the investment cost financing through subsidies.
+Assumptions of the model
+The following general assumptions were used in the model:
+Duration of the PPP contract: 30 years
+Duration of construction period: 2 years
+Construction profile per year:
+Year 1: 50%
+Year 2: 50%
+Average amortization period: 28 years
+The following financial structure assumptions were used in the model:
+Equity: 30% of total debt and equity
+Debt: 70% of total debt and equity
+Debt maturity: 28 years
+Interest rate (private sector): 26.20%
+Interest rate (public sector): 24.86%
+Grace period: 2 years
+Reimbursement method: constant P+I (Principal + Debt).
+Equity is provided by private investors (also called shareholders) who are often promoters, operating companies as well as specialized investment funds seeking long-term profitability (e.g. pension funds). These equity capitals usually represent around 30% of private financing. In the event of early termination of the PPP contract, this equity is not recoverable. In this financial modelling, we take a percentage of 30% as input data.
+Debt is provided by commercial banks and lenders. Debt usually accounts for around 70% of private financing. In the event of early termination of the PPP contract, the principal of the debt is “reimbursed” to the banks by the State. In this financial modelling, we take a percentage of 70% as input data.
+The investment grant may be necessary to supplement the private financing of the PPP project and achieve full financing of the investment cost. In this financial modelling, we calculate the subsidy as a percentage of the investment cost. We vary this percentage manually until we reach a sufficient level of profitability for the shareholders (the key measurement indicator is the IRR of the shareholders (equity IRR) which must be greater than 30,7% in our case) while respecting a debt service coverage ratio (Average Debt Coverage Ratio or ADSCR of at least 1,2).
+The maturity of the debt is the period after which the debt is completely repaid. This duration is 3 years less than the contract duration. This is a requirement made by the banks to have a margin of manoeuvre of 3 years in case of an event hindering the progress of the contract (delay during the construction period, force majeure event, etc.).
+The grace period is the period during which the project company does not repay any debt annuity to the banks. It is fixed at 2 years to cover the construction period, which means that the first annuity is paid at the end of the first year of operation.
+The chosen reimbursement method is constant P+I. The other possible modality is linear depreciation. For the P+I, P means the principal of the debt and I means the interest of the debt. Since this quantity is constant, it implies that the project company pays a lot of interest at the start (little debt principal) and little interest at the end of the contract (a lot of debt principal). The P+I method is often preferred by investors because it allows a constant annuity.
+The other macroeconomic assumptions of the project are:
+VAT Rate: 16.5%
+Corporate income rate: 30%.
+
+Selected scenarios
+Several cases of calculation could be envisaged in order to verify the criteria for evaluating the financial profitability of the project by varying the rents/revenue and/or the level of subsidy paid by the Public Sector to the private partner.
+It should be noted that the definition of the subsidy rate on a new infrastructure implemented through PPP should result from a financial calculation with a view to ensuring that the operating revenues make it possible to generate sufficient cash flow to recover investment costs, repay debts, cover operating, maintenance and necessary renewals expenses, and appropriately remunerate the capital employed.
+We have considered 8 possibilities for the project implementation, namely:
+Each Botanic Garden separately (x3);
+Whole project without Government subsidy;
+Whole project with Government subsidy not exceeding 40%;
+Each garden separately without the boundary fence (x3);
+Each garden separately without the offices and boundary fence (x3);
+Whole project without the offices and boundary fence (tourist components only);
+Whole project with tourist component only with Government subsidy not exceeding 40%;
+Whole project with tourist component only, with Government subsidy and with optimistic occupancy rates;
+Whole project with tourist component only at Duty Free prices.
+In total, we get 14 different cases for the financial modelling.
+For each scenario, we have tested several levels of occupancy rates for the accommodation and conferences facilities. For each test, the model calculates the equity IRR achieved. If we get an IRR above the target (estimated in our case 30.7% based on the 10-year average annual market return on the Malawi Stock Exchange), then we calculate the ADSCR, if the ADSCR is below 1.2 then we increase the subsidy percentage until we get an ADSCR close to 1.2.
+We have also considered only one PPP option which is the DBFOM contract.
+As for the annual royalty fee (or concession fee or lease fee) paid by the private partner to the NHBG as a percentage of the total revenue, we have assumed that it is equal to Zero.
+Scenario 1 – All projects’ facilities without public subsidy (each Botanic Garden separately/ whole project)
+The following table presents the result of the analysis of the 3 botanical garden projects implementation (separately/ whole project) under a DBFOM contract (without public subsidy).
+
+According to this scenario, the private partner bears the entire investment cost of the project.
+Taking the example of the Whole project case. The construction cost is MK 16 455 million (2023 economic terms). By applying inflation during the construction period, we obtain the amount of MK 28 924 million.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 5 318 million. The total cost of the project at the end of the construction period stands at MK 34 243 million.
+This amount is financed by debt up to MK 8 677 million and equity up to MK 25 566 million.
+The revenue curve corresponds to the revenue generated by the project, i.e. from Office Space rental to NHBG, Hospitality Services (Accommodation, Food and Beverages, Conferences & Meetings) and Educational & Day Visitors tickets (with and without game viewing). In this case, the private partner is remunerated directly by the end-users, with no royalty fee versed to the NHBG.
+The revenue of the public sector essentially originates from taxes collected.
+This scenario generates equity IRRs below the threshold (example: 11.2% for LL BG and even negative (-5.37%) for MZ BG) and a minimum ADSCR less than 1.2 for all the cases, which means that the implementation of the different BG without public subsidy is not profitable for the private partners and does not allow them to pay the annual service of their debt contracted.
+To achieve the minimum profitability of the project within a DBFOM contract, it is necessary to proceed to one or a combination of the following solutions:
+Reduce the construction cost by excluding some investment components (offices, boundary fences);
+Provide public investment subsidies to cover a part of the CAPEX; or/ and
+Consider a duty-free construction cost for the private partner. 
+These alternatives will be discussed in the following sections.
+Scenario 2 – Projects without the boundary fence, without public subsidy (each Botanic Garden separately)
+The following table presents the result of the analysis of the 3 botanical garden projects implementation without the boundary fence under a DBFOM contract (without public subsidy).
+
+According to the scenario 2, the private partner bears the entire investment cost of the project.
+Taking the example of Zomba BG. The construction cost of the project without boundary fence is MK 3 543 million (2023 economic terms). By applying inflation during the construction period, we obtain the amount of MK 6 227 million.
+The financing of the construction cost is ensured partly by private debt which generates capitalised interests of MK 1 145 million. The total cost of the project at the end of the construction period stands at MK 7 372 million.
+This amount is financed by debt up to MK 5 504 million and equity up to MK 1 868 million.
+This scenario generates equity IRRs below the threshold (example: 7.3% for ZA BG and 19.3% for LL BG) and a minimum ADSCR less than 1.2 for all the BG, which means that the implementation of the different BG without public subsidy, even by excluding the boundary fences is not profitable for the private partners and does not allow them to pay the annual service of their debt contracted.
+Sensitivity test:
+Even with optimistic occupancy rates for accommodation services and conference facilities (100% since the Year 1), the exclusion of the boundary fences in this scenario is not sufficient for reaching the target profitability for the 3 botanical gardens without public subsidy.
+In the following scenario, we will assess the scenario of implementing the project without offices and boundary fence.
+Scenario 3 – Projects without offices and boundary fence (tourist components only), without public subsidy (each Botanic Garden separately/ whole project)
+The following table presents the result of the analysis of the 3 botanical garden projects implementation (separately/ whole project) without offices and boundary fence under a DBFOM contract (without public subsidy).
+
+
+In the financial assessment of Scenario 3, which evaluates the Zomba, Lilongwe, and Mzuzu Botanic Gardens, as well as the aggregate project, certain critical observations emerge. The equity IRRs for these projects are markedly below the established target of 30.7%. Specifically, the Zomba Botanic Garden registers an equity IRR of 11.32%, the Lilongwe Botanic Garden at 21.99%, and the Mzuzu Botanic Garden notably lower at 1.05%. When these gardens are evaluated collectively as a whole project, the equity IRR is calculated at 12.68%.
+The minimum ADSCRs further underscore the financial challenges. Zomba's ADSCR at 0.58, Lilongwe's at 0.95, and Mzuzu's critically low at 0.08, with the entire project yielding an ADSCR of 0.53, suggest a general insufficiency in revenue generation for adequate debt servicing.
+This scenario's analysis reveals that, even without the inclusion of costs for offices and boundary fences, the profitability targets for private investors are not being met. The individual and collective financial performance of these projects indicates potential risks and challenges, especially considering the low equity returns and the inadequate ADSCR values.
+The scenario underscores the necessity for a re-evaluation of the project structures to enhance their financial viability and attractiveness to investors.
+Scenario 4 – Whole Project with public subsidy not exceeding 40%
+In this scenario, we have fixed the public subsidy allowed for the project at its maximum level (40%).
+The following table presents the result of the analysis of the implementation of the whole project (all the facilities/ tourist facilities only, i.e. without offices and boundary fences) under a DBFOM contract, with public subsidy covering 40% of the CAPEX.
+
+According to the scenario 4, the public partner bears a part of the project investment cost.
+Taking the example of the Whole Project – Tourist components only. The construction cost is MK 5 881 million (2023 economic terms). By applying inflation during the construction period, we obtain the amount of MK 10 338 million.
+The financing of the construction cost is ensured partly by private debt which generates capitalised interests of MK 1 141 million. The total cost of the project at the end of the construction period stands at MK 11 478 million.
+This amount is financed by debt up to MK 5 482 million, equity up to MK 1 861 million and public subsidy up to MK 4 135 million.
+For the public partner, the financing of this subsidy (which represents 40 % of the construction cost) is ensured through Treasury bonds. This public debt stands at MK 5 206 million, including capitalised interests of MK 1 071 million.
+In Scenario 4, the analysis of the whole botanical garden project, including all facilities and just the tourist components (excluding offices and boundary fences), reveals a financial landscape shaped by a public subsidy capped at 40% of the CAPEX.
+For the entire project encompassing all facilities, the equity IRR is recorded at 8.91%, falling below the target of 30.7%. This indicates that the returns on equity investments are not as high as desired, reflecting a less attractive opportunity for equity investors. The project IRR, a measure of the overall profitability, stands at a modest 2.6%, suggesting limited financial viability. The Minimum ADSCR for this full-scope project is 0.43, indicating that the generated revenue is less than half of what is needed to cover annual debt obligations, thus presenting a high financial risk.
+When considering only the tourist components of the project, the financial outlook appears somewhat brighter. The equity IRR increases significantly to 21.57%, though it still does not meet the target. This improvement suggests a more attractive investment, but still not at the level of profitability initially aimed for. The project IRR also sees an uptick to 9.81%, indicating enhanced overall financial health for this segment of the project. The ADSCR at 0.88, while closer to the acceptable threshold, still signifies a degree of risk in covering the debt obligations through the project's revenue.
+In conclusion, Scenario 4 illustrates that, even with a substantial public subsidy, the entire project, inclusive of all facilities, struggles to reach the desired benchmarks of profitability for private investors. However, focusing on the tourist components enhances the financial attractiveness, although not sufficiently to fully align with the equity return targets. This scenario underscores the need for careful financial structuring and perhaps a re-evaluation of certain aspects of the project to improve its overall feasibility and appeal to investors.
+The findings from this scenario highlight the necessity of a strategic reassessment of the project's financial framework, particularly emphasising the potential of optimistic occupancy rates for tourist components such as accommodation, conference, and meeting facilities. This approach, which will be explored in greater detail in a subsequent scenario, could play a pivotal role in enhancing the project's overall viability and attractiveness to investors and achieving a more favourable financial outlook.
+
+Scenario 5 – Whole Project with tourist components only at duty-free prices – without subsidy
+The following table presents the result of the analysis of the implementation of the whole project with tourist facilities only (i.e. without offices and boundary fences) under a DBFOM contract, without public subsidy, and with CAPEX at duty-free prices (without VAT nor NCIC Levy).
+
+The Scenario 5 presents an analysis of the whole project, focusing solely on tourist facilities at duty-free CAPEX prices, operated under a Design, Build, Finance, Operate, and Maintain (DBFOM) contract without any public subsidy. In this scenario, the financial figures reflect a unique setting where Value-Added Tax (VAT) and NCIC Levy are excluded, leading to a distinctive financial composition.
+In Scenario 5, which evaluates the implementation of the whole project focusing solely on the tourist components at duty-free Capital Expenditure (CAPEX) prices, the analysis unfolds without any public subsidy. The scenario presents a specific financial setup, excluding Value-Added Tax (VAT) and NCIC Levy, providing a unique perspective on the project's viability.
+The total funds used amount to MK 10.41 million, with the construction costs forming a major part, standing at MK 8.8 million, as well as the capitalized interests, contributing to MK 1.62 million. In terms of the sources of these funds, equity contributes MK 2.64 million, while debt covers the larger portion, amounting to MK 7.8 million. Notably, there is no investment subsidy in this scenario.
+The target equity IRR is set at 30.7%, and the achieved equity IRR is 15.00%. While this return is substantial, it falls short of the target, suggesting that the equity investment yields lower returns than expected. The project IRR, indicating the overall profitability, is 11.61%, which points to moderate financial health. The minimum ADSCR is 0.62. This ratio, being below the standard threshold of 1.2, signals a potential challenge in covering annual debt obligations with the revenue generated, indicating a level of risk for debt lenders.
+Even when taking into account duty-free CAPEX prices, and even with the highest optimistic occupancy rates for accommodation services and conference facilities, Scenario 5 indicates that the project's profitability and debt servicing capabilities continue to face challenges in the absence of public subsidy. This highlights the significant impact of subsidy support on the financial feasibility and risk profile of the project, underscoring its importance in achieving both satisfactory returns on equity and reliable debt service coverage.
+
+Scenario 6 – Whole Project with tourist facilities only, with public subsidy not exceeding 40% and with optimistic occupancy rates for hospitality services
+In this scenario, the public subsidy for the project is set at its maximum allowable limit of 40%. Additionally, we've adopted optimistic projections for the occupancy rates of hospitality services, which include guest accommodation and conference facilities. We have determined that the following occupancy levels are essential to ensure the project's minimum profitability, as presented in the following table.
+
+From the start of the operation period, it is crucial for the private partner to undertake significant commercial and marketing efforts to achieve the projected occupancy levels, which are vital for ensuring the project's profitability. This can include a range of strategic marketing and promotional activities. For example, the private partner could engage in targeted digital marketing campaigns to attract potential guests, establish partnerships with travel agencies and event planners to promote the conference facilities, and utilize social media platforms to enhance visibility and engagement. Additionally, offering special packages or discounts for corporate events and during off-peak seasons could help in maintaining consistent occupancy rates. Such concerted efforts in marketing and outreach are essential for reaching the occupancy targets that underpin the financial success of this project.
+The following table presents the result of the analysis of the implementation of the whole project (tourist facilities only, i.e. without offices and boundary fences) under a DBFOM contract, with public subsidy covering 40% of the CAPEX, and with optimistic occupancy rates for tourist facilities.
+
+This Scenario 6 presents an optimistic view of the project's financial viability, contingent upon achieving higher-than-average occupancy rates in hospitality services and substantial marketing efforts by the private partner. The scenario also hinges on the substantial support through public subsidy, highlighting the project's dependence on both public funding and successful private sector marketing strategies for its success.
+In Scenario 6, the profitability indicators - equity and project Internal Rate of Return (IRR), along with the minimum ADSCR - collectively suggest a favourable financial outlook for the project.
+In Scenario 6, the 29,7% equity IRR falls slightly below the target at 30.7%. This suggests that while the return on the equity portion of the investment is reasonable, it is not as high as anticipated. For equity investors, this means the project is expected to offer satisfactory profits, but there is room for improvement to reach the desired profitability level.
+A proposed solution to enhance the attractiveness of the project for equity investors is to increase the public subsidy slightly—from 40% to 42%.
+With a 42% subsidy rate, the results of this scenario become as follows:
+
+This adjustment is expected to bring the Equity IRR to 30.87%, surpassing the targeted threshold. Such an increase in public subsidy would reduce the financial burden on equity investors and enhance their returns, making the project more appealing and financially viable from their perspective.
+Similarly, the Project IRR, encompassing the overall returns considering both debt and equity financing, also presents a positive scenario. This comprehensive measure of profitability implies that the project, as a whole, is expected to generate enough revenue to not only sustain its operational and maintenance costs but also to adequately reward the capital invested.
+Moreover, the Minimum ADSCR being at a satisfactory level suggests that the project's annual income is more than sufficient to cover its annual debt obligations. This is an assurance to lenders and financial institutions about the project's capacity to meet its debt-related liabilities without strain.
+
+
+
+
+Value for Money Assessment
+Introduction
+The Value for money (hereafter “VfM”) analysis involves carrying out an assessment of the overall cost of the project, taking into account the value of the inherent risks, depending on whether the project is carried out under a public contract or a PPP.
+The analysis and comparison of the financial profitability of the different scenarios is ultimately measured by means of the VfM.
+In order to assess the VfM of each of the scenarios, we use the results of the financial model which adopts the point of view of the NHBG and the private partner by estimating the overall cost of the project for the public sector of each option over the project period.
+This cost is then risk-adjusted, where the cost of risks borne by the public sector (and which have not been transferred to the private partner) is added. The cost of risks is provided by the risk register, the results of which are in Appendix section.
+Best practice in financial analysis and modelling requires that a set of different options and sensitivities be evaluated and compared.
+The Value for Money is a percentage which indicates in absolute terms the increase in value offered by the PPP option compared to the public contractual option, i.e. an option where the project is carried out with one or more traditional procurement models.
+The Value for Money for the PPP option is achieved through the commitment of efficiency, effectiveness and savings that can be achieved by the private sector and the appropriate allocation of risk in the project. Factors that determine whether the VfM of a PPP option is positive include:
+A better distribution of risks which are allocated to the counterparty that is the best to manage it;
+Long-term contract: predictability of costs and revenues for counterparties;
+Call for tenders implemented quickly;
+Improved quality of service;
+Compensation structure based on performance incentives;
+Reduction of costs over the life cycle of the project thanks to an optimization of the maintenance of the infrastructures.
+Quantitative assessment
+To quantitatively assess the VfM, the financial model estimates the cost to the public authority for each option. The project costs, which are borne by the project company during the term of the contract, are risk-adjusted and then compared in terms of NPV to the costs of the risk-adjusted Public Sector Comparator. In the following section, we present the results of this analysis. 
+We remind that the Value for Money only makes sense for scenarios that are bankable (Debt is paid with DSCR >1.2) and attractive to investors (Equity IRR > Target). In this case, the quantitative VfM analysis will be applied only on the Scenario 6: Whole project (tourist facilities only) - with public subsidy up to 42%/ optimistic occupancy rates under a DBFOM model.
+Cost of the project under the PSC model
+The different total costs of the project for the Public Sector when implemented in PSC (public procurement), adjusted to the risk for the retained scenario are broken down as follows:
+
+The Net Present Value (NPV) calculations for the whole project, focusing on tourist facilities under the Public Sector Comparator (PSC) model offer a detailed view of the project's impact on the public sector costs.
+The NPV of public sector debt service shows a substantial negative figure at -6,261,062 '000 MK, reflecting a significant financial commitment for debt repayment. The NPV of Operations and Maintenance (O&M) costs is another major expense, recorded at -81,537,792 '000 MK. These substantial outflows are, however, offset by the NPV of operation revenues, which stands at a positive 95,715,867 '000 MK, indicating significant income generation potential from the project's operations.
+This leads to a Public Sector NPV - Risk Free of 7,917,013 '000 MK. On the surface, this suggests a positive financial outlook for the public sector when risks are not considered. However, the inclusion of risks changes this scenario markedly. The NPV of risks is a sizeable -12,733,401 '000 MK, overshadowing the initial positive outlook.
+With the incorporation of these risks, the NPV for the public sector becomes negative, totalling -4,816,388 '000 MK. This shift from a positive risk-free NPV to a negative NPV with risks emphasizes the critical impact of risk considerations in public projects. While the project initially appears to be financially beneficial for the public sector, the substantial risk costs turn the overall financial evaluation negative, highlighting the need for thorough risk assessment and management in public sector project evaluations.
+Value for Money analysis of the PPP model
+The results of the VfM analysis for the implementation of the project under a DBFOM model for Scenario 6: Whole project (tourist facilities only) - with public subsidy up to 42%, is presented as follows.
+In Scenario 6, the Value for Money (VfM) analysis of the PPP model for the whole project with tourist facilities, a 42% public subsidy and optimistic occupancy rates indicates an NPV of public sector debt service is at -3,090,923 '000 MK, reflecting a significant outlay for debt repayment to finance the investment subsidy. However, this is counterbalanced by the NPV of Taxes, which brings in a positive 3,320,291 '000 MK, reflecting the tax revenue generated by the project. There are no additional O&M Costs or Operation revenues affecting the NPV in this scenario.
+Consequently, the risk-free NPV is a modest 229,368 '000 MK, suggesting a slight financial benefit in the absence of risks. However, considering the impact of risks drastically changes the picture. The NPV of risks, at -2,388,331 '000 MK, significantly diminishes the project's fiscal appeal, resulting in a negative NPV for the public sector with risks at -2,158,963 '000 MK.
+
+Despite the negative NPV, the Value for Money (VfM) for the DBFOM model under this scenario is positive, at 2,657,425 '000 MK, equating to 55.2%, which still offers better value compared to traditional public procurement methods. The VfM percentage reflects the comparative cost-effectiveness of the PPP approach, emphasising its financial efficiency despite the inherent risks and associated costs.
+This suggests that the PPP model, even with a significant public subsidy and risk factors, can still be a more economically advantageous option for the implementation of this project.
+
+Qualitative assessment
+This section addresses the qualitative aspects of a PPP, which includes review of the efficiencies that the SPV can provide, the existence of a competitive market, the possibility of risk transfer to the developer/investor and whether such risk transfer will be achieved within the life of the project.
+The qualitative VfM analysis seeks to answer a series of questions about the proposed project in relation to the following categories:
+Viability;
+Desirability; and
+Achievability.
+Viability
+For PPP projects to be viable the investment objectives and desired outcomes of the sponsor need to be translatable into outputs that can form the basis of a contract and a sound payment mechanism. Therefore, the quality and quantity of the outputs needs to be easily measurable. Many service areas can be described in contractual terms, but some areas will be inherently ‘non contractible’ as outputs. Successful PPP transactions are those that are clearly able to measure and report on service quality in relation to key performance indicators and output-based specification.
+
+Desirability
+PPP projects can provide more efficient risk management and produce incentives to develop innovative approaches to output delivery. Consistent high-quality services can be incentivized through performance and payment mechanisms. However, risk transfer is priced into the contract.
+Achievability
+While PPP projects may allow a more efficient and effective combination of public and private sector skills, determining the rules that will govern the relationship between the two sectors does involve significant transaction costs. In particular the procurement process can be complex and significant resources including senior management time may be required for project development and the ongoing monitoring of service delivery. PPP projects need a robust competitive process to fully deliver its benefits and so the choice of procurement route should be informed by an assessment of the likely market appetite.
+
+Sensitivity analysis
+A sensitivity analysis has been applied to the financial model in order to assess its resilience to changes in assumptions and risk components over the Project term. Sensitivity tests were carried out for the base case scenario (Scenario 6: Whole project (tourist facilities only) - with public subsidy at 42%) on the main parameters taken individually in order to judge the financial robustness of the proposed financial package. For each sensitivity, these results make it possible to measure the impact of the deviation of a variable on the main model outputs, such the equity IRR, the minimum ADSCR, costs and revenues, public sector NPV and the Value for Money.
+The Consultant performed the following sensitivity analyses on the key variables of the project:
+Increase in the project term by 5 years;
+Decrease in project term by 5 years;
+Increase in construction period by 1 year;
+Increase in construction costs by 10%;
+Decrease in construction costs by 10%;
+A state subsidy of 10% is considered;
+Increase in Inflation rate by 5 points;
+Decrease in Inflation rate by 5 points;
+Increase in operating costs by 10%;
+Decrease in operating costs by 10%;
+Increase in total revenues by 10%;
+Decrease in total revenues by 10%.
+The following table summarizes the main outcomes of the sensitivity analysis.
+
+
+
+
+The sensitivity analysis allowed to obtain certain observations on the project resilience to changes. The sensitivity analysis for Scenario 6, which examines the whole project with tourist facilities only and includes a 42% public subsidy, presents a set of outcomes under various conditions that influence the project's financial performance:
+Increase in project term by 5 years: This extension leads to slight improvements in both the project IRR (13.24%) and equity IRR (31.26%), with the minimum ADSCR remaining stable (1.29). The public sector NPV and Value for Money show a modest decrease, suggesting that a longer project term marginally enhances profitability and value.
+Decrease in project term by 5 years: A reduction in the project term has the opposite effect, decreasing the project IRR to 12.70% and equity IRR to 30.31%. The Value for Money slightly increases, indicating that a shorter project term may not necessarily diminish the project's value.
+Increase in construction period by 1 year: Delaying the project completion by one year reduces the project IRR to 12.23% and the equity IRR to 28.33%. The minimum ADSCR remains relatively stable (1.28), and the Value for Money is slightly lower, indicating that construction delays could negatively impact profitability.
+Increase in CAPEX by 10%: Increasing the capital expenditure by 10% reduces the project IRR to 11.88% and equity IRR to 27.68%, with a significant drop in the minimum ADSCR to 1.17. This scenario suggests that higher construction costs would lower the project's financial attractiveness.
+Decrease in CAPEX by 10%: Conversely, decreasing the CAPEX by 10% improves the project IRR to 14.47% and equity IRR to 34.77%, with an increased minimum ADSCR of 1.43. This improvement in all metrics indicates that cost savings in CAPEX could significantly enhance the project's value.
+Subsidy increases by 10%: If the public subsidy is increased by an additional 10%, the equity IRR jumps to 38.16%, with an improved minimum ADSCR of 1.55. However, the Value for Money decreases to 42.8%, suggesting that while profitability improves for the private partner, the overall value for money from a public perspective diminishes.
+Increase in Inflation rate by 5 points: A 5-point inflation rate increase leads to a marginal improvement in the project IRR (13.17%) and a notable increase in equity IRR (32.85%). The minimum ADSCR improves to 1.37, and the Value for Money increases significantly, indicating that the project could benefit from inflationary pressures.
+Decrease in Inflation rate by 5 points: A decrease in the inflation rate lowers the project IRR to 12.98% and equity IRR to 28.39%, with the minimum ADSCR dropping to 1.21. The public sector NPV and Value for Money decrease, showing that deflationary conditions could adversely affect the project.
+Increase in OPEX by 10%: Higher operational expenses by 10% drastically reduce the project IRR to 6.90% and equity IRR to 16.03%, with a minimum ADSCR of 0.61. This leads to an increase in the Value for Money, indicating that while operational costs impact profitability, they might improve the project's comparative cost-effectiveness.
+Decrease in OPEX by 10%: Reducing operational expenses by 10% substantially improves the project's financial metrics, with an equity IRR of 47.55% and a project IRR of 18.54%. However, the Value for Money turns negative, suggesting that while operational savings benefit the project's IRRs, they may not necessarily translate into better value for money.
+Increase in total revenues by 10%: Increasing total revenues by 10% results in the highest project IRR (19.91%) and equity IRR (51.68%) seen in this analysis, with a very high minimum ADSCR of 2.12. However, this scenario also leads to a negative Value for Money, indicating that while revenue increases significantly enhance profitability, they may lead to a less favourable evaluation in terms of value for money.
+Decrease in total revenues by 10%: A decrease in total revenues of 10% brings the project IRR and equity IRR down to 4.94% and 12.71%, respectively, with a minimum ADSCR of 0.45. Despite this, the Value for Money remains unchanged at 70.4%, suggesting that the project retains its comparative cost-effectiveness despite lower revenues.
+This sensitivity analysis illustrates the varying impacts of different factors on the financial viability and value for money of the PPP model in Scenario 6. Changes in project terms, CAPEX, subsidy levels, inflation, operational costs, and revenue all have significant implications for the project's appeal to both public and private sectors.
+
+
+Conclusion and recommendations
+The comprehensive feasibility study for the Botanical Gardens project, undertaken within the framework of a Design, Build, Finance, Operate, and Maintain (DBFOM) model, concludes with a persuasive evaluation of the project’s prospective outcomes. Through meticulous examination across various scenarios and fiscal models, the analysis delineates a strategic approach that harmonizes the objectives of achieving profitability for private stakeholders with securing value for the public sector.
+The analysis of the various configurations explored for the implementation of the Botanical Gardens’ project under a DBFOM scheme demonstrates that the Scenario 6: Whole project (tourist facilities only) - with public subsidy stands out as the most promising option among. With its combination of a 42% public subsidy, optimistic occupancy rates for hospitality services, and strategic marketing efforts, this scenario uniquely positions the project to meet and potentially exceed profitability objectives. The equity IRR, surpassing the 30.7% threshold to reach 30.87%, demonstrates reasonable returns for equity investors. This arrangement would not only enhance the project's appeal to equity stakeholders but also solidify its financial viability.
+The project IRR in this scenario is also encouraging, indicating that the project is expected to generate sufficient revenue to cover both operational and capital costs, thereby rewarding the investment comprehensively. The satisfactory minimum ADSCR further reinforces the project's capability to meet its debt obligations, ensuring confidence among lenders and financial institutions.
+Therefore, Scenario 6 emerges as the most viable and attractive proposition for a public-private partnership (PPP). It is the only scenario that aligns with the profitability objectives while balancing the interests of both public and private stakeholders. This scenario's success hinges on achieving higher-than-average occupancy rates, supported by robust marketing strategies and public funding, making it a feasible pathway for the project's realization.
+On the public sector front, the Value for Money analysis of the Public-Private Partnership model under scrutiny acknowledges the significant debt obligations the public sector would assume. However, it also projects a notable return in the form of tax revenues. While the net financial benefit appears moderate when not considering potential risks, it is reduced when these risks are taken into account. Yet, this does not undermine the overall benefit of the approach. The analysis confirms that the Design, Build, Finance, Operate and Maintain model, even with its inherent risks and the possibility of a negative net present value after adjusting for these risks, still offers better value compared to the traditional public sector methods.
+The Value for Money, quantified at 55.2%, supports the financial benefits of the PPP model. It demonstrates the model's ability to effectively use public subsidies and manage risks to create a project that is both economically sound and produces value.
+In summary, the study endorses Scenario 6 as the definitive model for a Public-Private Partnership that can meet the profit goals of private investors while also providing good value for the public sector. It is the only scenario that offers a practical and advantageous plan for the project's successful completion, outlined with a clear understanding of financial strategy and foresight.
+
+It is recommended to move on to the procurement stage with a focus on the following steps:
+Starting in the preparation of the project PPP tender documents for the selection of a private operator to conduct the project;
+Implementation of a PPP procurement process for the construction and the operation of the botanical gardens (as one project) based on Malawi's PPP legal framework and international best practices;
+Development of a transaction plan based on the selected PPP model;
+Carrying out a legal due diligence (during the preparation of the business consultation file) to optimize contractual arrangements with the private sector (operator/private operator).
+Undertaking the project under PPP model has several advantages compared to traditional public procurement, it allows to:
+Optimize the overall cost (design, construction and operation) of the project; the comparison of the selected PPP option with the public procurement option shows that the PPP option (DBFOM) is less expensive than the public procurement (Value for Money = MK 2 657 million);
+Have a single responsibility for the design, construction and operation;
+Mobilise private financing for the realisation of works related to the development of the NHBG botanical gardens.
+Mobilizing private financing through lenders requires structuring a bankable project. This is conditional on substantial support from the state in order to guarantee the mobilisation of the financial resources necessary for the payment of investment subsidies.
+
+Appendices
+
+
+Appendix 1: Risk Register
+
+Category 								Stage
+
+
+
+
+
+List of tables
+List of figures
+List of acronyms
+Executive summary
+Technical and environmental assessment of the project
+Risk Analysis
+Cost, revenue and economic assumptions
+PPP Options
+Results of the financial modelling
+Value for Money Assessment
+Introduction
+Project description
+Objective of the feasibility study report
+Benchmark study for similar Botanical Gardens PPP projects
+The public gardens of Ahmedabad in India
+Project Presentation
+Project Structuration
+The Malta landscaping project/ the Malta Gardens
+Project Description
+Project Structure
+Main challenges
+São Paulo Botanical Garden and Zoo, Brazil
+Project Description
+Project Structure
+Summary of the benchmark study and lessons learned
+Technical and environmental assessment of the project
+Assessment of technical issues
+Assessment of the environmental and social impacts
+Legal and regulatory assessment of the project
+Introduction
+The legal, regulatory and policy framework in Malawi
+The legal status of the National Herbarium and Botanic Gardens of Malawi as a Contracting Party
+Different statutory permits and approvals before the project implementation
+Planning Permission
+Development Permission
+Environmental Impact Assessment (EIA) 
+Business permission
+Pesticide Application Permit
+Plant Import and Export Permit
+Water permission
+Investment and foreign exchange control
+The Preliminary Contractual Framework for the Project
+Project risk assessment
+Risk identification
+Risk matrix and Risk allocation
+Risk quantification
+Introduction
+Methodology
+Financial assessment of the project
+Financial and Economic Model Assumptions
+Capital Expenditures
+Zomba Botanical Gardens (ZA) - CAPEX
+Lilongwe Botanical Gardens (LL) - CAPEX
+Mzuzu Botanical Gardens (MZ) - CAPEX
+Operating Costs
+Hospitality Services Division - Cost of Goods Sold:
+Hospitality Services Division - Sales and Administration Expenses:
+Hospitality Services Division - Licences and Permits Costs:
+Property Division, Events Facility & Visitor Centre - Operating Expenses:
+Management and staff costs: 
+Property Maintenance and Repairs: 
+Landscaping Expenses: 
+Cleaning, Toiletries and Waste Disposal: 
+Insurance Costs: 
+Depreciation:
+Consolidated Operating Expenditure Forecasts:
+Zomba Botanical Gardens (ZA) – OPEX
+Lilongwe Botanical Gardens (LL) - OPEX
+Mzuzu Botanical Gardens (MZ) - OPEX
+Revenue assumptions
+Zomba Botanical Gardens (ZA): 
+Business Division Products, Services and Revenue Lines:
+Business Volume Assumptions:
+Pricing Assumptions:
+Consolidated Revenue Projections - Zomba Botanical Gardens:
+The Lilongwe Botanical Gardens (LL):
+Business Division Products, Services and Revenue Lines:
+Business Volume Assumptions:
+Pricing Assumptions:
+Consolidated Revenue Projections - Lilongwe Botanical Gardens: 
+the Mzuzu Botanical Gardens (MZ): 
+Business Division Products, Services and Revenue Lines:
+Business Volume Assumptions:
+Pricing Assumptions:
+Consolidated Revenue Projections - Mzuzu Botanical Gardens: 
+Macro-Economic Indicators and Forecasts
+Inflation Rates, Interest Rates, Bond/Treasury Note Yields and Cash Flow Discount Factor
+Exchange Rates
+Economic Growth
+Population Growth
+Shortlisted PPP options
+Results of the financial modelling of the different project delivery models
+Assumptions of the model
+Selected scenarios
+Scenario 1 – All projects’ facilities without public subsidy (each Botanic Garden separately/ whole project)
+Scenario 2 – Projects without the boundary fence, without public subsidy (each Botanic Garden separately)
+Scenario 3 – Projects without offices and boundary fence (tourist components only), without public subsidy (each Botanic Garden separately/ whole project)
+Scenario 4 – Whole Project with public subsidy not exceeding 40%
+Scenario 5 – Whole Project with tourist components only at duty-free prices – without subsidy
+Scenario 6 – Whole Project with tourist facilities only, with public subsidy not exceeding 40% and with optimistic occupancy rates for hospitality services
+Value for Money Assessment
+Introduction
+Quantitative assessment
+Cost of the project under the PSC model
+Value for Money analysis of the PPP model
+Qualitative assessment
+Viability
+Desirability
+Achievability
+Sensitivity analysis
+Conclusion and recommendations
+Appendices
+Appendix 1: Risk Register

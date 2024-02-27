@@ -1,20 +1,21 @@
 import os
 import pickle
-from typing import Any
-import uuid
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from pydantic import BaseModel
-from unstructured.partition.docx import partition_docx
+from langchain_google_genai import ChatGoogleGenerativeAI
 import google.generativeai as genai
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain.vectorstores import Chroma
-from langchain.storage import InMemoryStore
 from langchain.retrievers.multi_vector import MultiVectorRetriever
-from langchain_core.documents import Document as dc
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+
 import streamlit as st
 from langchain_community.embeddings import OllamaEmbeddings
+
+# Initialize the session variable if it doesn't exist
+if "persist_directory" not in st.session_state:
+    st.session_state.persist_directory = './doc1/'
+
+if "history" not in st.session_state:
+    st.session_state.history = []
 
 #model preperation
 os.environ["GOOGLE_API_KEY"]="AIzaSyBR03q5DwkuBxfeCCja-b-j1hGeI0NRIGE"
@@ -32,10 +33,10 @@ model = ChatGoogleGenerativeAI(
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # The vectorstore to use to index the child chunks
-vectorstore1 = Chroma(collection_name="table_summaries", embedding_function=OllamaEmbeddings(model="nomic-embed-text"),persist_directory="./v1")
+vectorstore1 = Chroma(collection_name="table_summaries", embedding_function=OllamaEmbeddings(model="nomic-embed-text"),persist_directory=f"{st.session_state.persist_directory}v1")
 
 
-with open('store1.pkl', 'rb') as f:
+with open(f"{st.session_state.persist_directory}store1.pkl", 'rb') as f:
     store1 = pickle.load(f)
 # The storage layer for the parent documents
 id_key1 = "doc_id"
@@ -47,14 +48,9 @@ retriever1 = MultiVectorRetriever(
     id_key=id_key1,
 )
 
+vectorstore2 = Chroma(collection_name="child_chunks", embedding_function=OllamaEmbeddings(model="nomic-embed-text"),persist_directory=f"{st.session_state.persist_directory}v2")
 
-
-# Table Retrieval
-
-
-vectorstore2 = Chroma(collection_name="child_chunks", embedding_function=OllamaEmbeddings(model="nomic-embed-text"),persist_directory="./v2")
-
-with open('store2.pkl', 'rb') as f:
+with open(f"{st.session_state.persist_directory}store2.pkl", 'rb') as f:
     store2 = pickle.load(f)
 id_key2 = "doc_id"
 # The retriever (empty to start)
@@ -85,19 +81,55 @@ chain = (
     |StrOutputParser()
 )
 
+button1 = st.sidebar.button('Button 1')
+if button1:
+    st.sidebar.write('You clicked Button 1')
+    st.session_state.persist_directory = './doc1/'
+    st.session_state.history = []
 
-while True:
-    question = input("Please enter your question (or 'quit' to stop): ")
-    if question.lower() == 'quit':
-        break
+button2 = st.sidebar.button('Button 2')
+if button2:
+    st.sidebar.write('You clicked Button 2')
+    st.session_state.persist_directory = './doc2/'
+    st.session_state.history = []
 
-    print(f"Question: {question}")
-    result = chain.invoke(question)
-    print(f"Answer (ensemble): {ensemble.invoke(question)}")
-    print("-------------------------")
-    print(f"Answer (retriever): {retriever1.invoke(question)}")
-    print("-------------------------")
-    print(f"Answer (vectorstore2): {retriever2.invoke(question)}")
-    print("-------------------------")
-    print(f"Context: {result}")
-    print("=========================")
+# while True:
+#     question = input("Please enter your question (or 'quit' to stop): ")
+#     if question.lower() == 'quit':
+#         break
+
+#     print(f"Question: {question}")
+#     result = chain.invoke(question)
+#     print(f"Answer (ensemble): {ensemble.invoke(question)}")
+#     print("-------------------------")
+#     print(f"Answer (retriever): {retriever1.invoke(question)}")
+#     print("-------------------------")
+#     print(f"Answer (vectorstore2): {retriever2.invoke(question)}")
+#     print("-------------------------")
+#     print(f"Context: {result}")
+#     print("=========================")
+
+for msg in st.session_state.history:
+    with st.chat_message(msg['role']):
+        st.markdown(msg['content'])
+
+prompt = st.chat_input("Say something")
+if prompt:
+    st.session_state.history.append({
+        'role':'user',
+        'content':prompt
+    })
+
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    with st.spinner('💡Thinking'):
+        response = chain.invoke(prompt)
+
+        st.session_state.history.append({
+            'role' : 'Assistant',
+            'content' : response
+        })
+
+        with st.chat_message("Assistant"):
+            st.markdown(response)
