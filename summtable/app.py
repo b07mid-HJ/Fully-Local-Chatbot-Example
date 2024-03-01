@@ -10,6 +10,8 @@ from langchain.retrievers.multi_vector import MultiVectorRetriever
 import streamlit as st
 from langchain_community.embeddings import OllamaEmbeddings
 
+
+
 # Initialize the session variable if it doesn't exist
 if "persist_directory" not in st.session_state:
     st.session_state.persist_directory = './doc1/'
@@ -77,6 +79,11 @@ chain = (
     |StrOutputParser()
 )
 
+
+st.title("Welcome to Jade Private Chat Assistant")
+logo = "./jade_advisory_logo-removebg-preview.png"
+st.sidebar.image(logo, width=80)
+st.sidebar.markdown("# Select a project")
 button1 = st.sidebar.button('Malawi Investment and Trade Center (MITC)')
 if button1:
     st.sidebar.write('Project is Selected')

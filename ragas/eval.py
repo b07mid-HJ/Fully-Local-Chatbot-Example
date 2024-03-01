@@ -92,28 +92,50 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 texts = text_splitter.create_documents([state_of_the_union])
 
-from ragas.testset.generator import TestsetGenerator
-from ragas.testset.evolutions import simple, reasoning, multi_context
-from ragas.llms import LangchainLLMWrapper
-from ragas.testset.extractor import KeyphraseExtractor
-from langchain.text_splitter import TokenTextSplitter
-from ragas.testset.docstore import InMemoryDocumentStore
-from ragas.embeddings import LangchainEmbeddingsWrapper
+grand_context = table_summaries + texts
 
-llm = LangchainLLMWrapper(model)
-emb=langchain_embeddings = LangchainEmbeddingsWrapper(OllamaEmbeddings(model="nomic-embed-text"))
+print(grand_context[0])
+print(grand_context[-1])
 
-splitter = TokenTextSplitter(chunk_size=1000, chunk_overlap=100)
-keyphrase_extractor = KeyphraseExtractor(llm=llm)
-docstore = InMemoryDocumentStore(
-    splitter=splitter,
-    embeddings=langchain_embeddings,
-    extractor=keyphrase_extractor,
+from langchain.output_parsers import ResponseSchema
+from langchain.output_parsers import StructuredOutputParser
+
+question_schema = ResponseSchema(
+    name="question",
+    description="a question about the context."
 )
 
-generator = TestsetGenerator(generator_llm=llm, docstore=docstore, embeddings=langchain_embeddings,critic_llm=llm)
+question_response_schemas = [
+    question_schema,
+]
 
-testset = generator.generate_with_langchain_docs(texts, test_size=10, distributions={simple: 0.5, reasoning: 0.25, multi_context: 0.25})
+question_output_parser = StructuredOutputParser.from_response_schemas(question_response_schemas)
+format_instructions = question_output_parser.get_format_instructions()
 
-print(testset[0])
- 
+bare_prompt_template = "{content}"
+bare_template = ChatPromptTemplate.from_template(template=bare_prompt_template)
+
+from langchain.prompts import ChatPromptTemplate
+
+qa_template = """\
+You are a University Professor creating a test for advanced students. For each context, create a question that is specific to the context. Avoid creating generic or general questions.
+
+question: a question about the context.
+
+Format the output as JSON with the following keys:
+question
+
+context: {context}
+"""
+
+prompt_template = ChatPromptTemplate.from_template(template=qa_template)
+
+messages = prompt_template.format_messages(
+    context=grand_context[0],
+    format_instructions=format_instructions
+)
+
+question_generation_chain = bare_template | model
+
+response = question_generation_chain.invoke({"content" : messages})
+output_dict = question_output_parser.parse(response.content)
